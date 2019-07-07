@@ -47,6 +47,7 @@
         - 체커(Checker)
 1. 과제
     - 더미 모델 완성하기
+    - 프리뷰 만들기(Hold-out & Cone & Checker)
 
 ### 3주차
 1. 3DEqualizer
