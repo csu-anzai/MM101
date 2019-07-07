@@ -40,6 +40,7 @@
         - 콘(Cone)
         - 체커(Checker)
 1. 과제
+    - 더미 모델 완성하기
 
 ### 3주차
 1. 3DEqualizer
