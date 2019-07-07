@@ -21,6 +21,7 @@
         - 솔빙(기초)
         - 오리엔트(Orient) & 스케일(Scale)
 1. Maya
+    - 프레퍼런스(Preference) 셋팅
     - 프리뷰(기초)
         - 플레이 블라스트(Playblast)
         - 뷰포트 2.0(Viewport 2.0)
