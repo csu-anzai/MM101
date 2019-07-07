@@ -38,9 +38,11 @@
     - 더미 모델링
         - Triangulate Point
     - 아웃라이너 정리하기
+        - 카메라 베이킹(Baking)
     - 프리뷰 만들기(심화)
         - 콘(Cone)
         - 체커(Checker)
+        - 홀드 아웃(Hold Out)
 1. 과제
     - 더미 모델 완성하기
 
