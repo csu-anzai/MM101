@@ -37,6 +37,7 @@
 1. Maya
     - 더미 모델링
         - Triangulate Point
+    - 아웃라이너 정리하기
     - 프리뷰 만들기(심화)
         - 콘(Cone)
         - 체커(Checker)
