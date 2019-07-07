@@ -22,7 +22,7 @@
         - 오리엔트(Orient) & 스케일(Scale)
 1. Maya
     - 프레퍼런스(Preference) 셋팅
-    - 프리뷰(기초)
+    - 프리뷰 만들기(기초)
         - 플레이 블라스트(Playblast)
         - 뷰포트 2.0(Viewport 2.0)
 1. 과제
@@ -37,7 +37,7 @@
 1. Maya
     - 더미 모델링
         - Triangulate Point
-    - 프리뷰(심화)
+    - 프리뷰 만들기(심화)
         - 콘(Cone)
         - 체커(Checker)
 1. 과제
