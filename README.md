@@ -32,7 +32,6 @@
         - 2D 포인트 트래킹(심화)
         - 솔빙(심화)
         - 렌즈 디스토션 워크플로우
-
 1. Maya
     - 더미 모델링
         - Triangulate Point
@@ -46,7 +45,9 @@
     - 오브젝트 트래킹
         - 포인트 그룹(Point Group) 이해하기
 1. Maya
-    - 월드 스페이스(World Space) & 스크린 스페이스(Screen Space) 
+    - 월드 스페이스(World Space) & 스크린 스페이스(Screen Space)
+1. 과제
+
 
 ### 4주차
 
