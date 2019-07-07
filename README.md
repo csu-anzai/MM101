@@ -35,10 +35,11 @@
     - 카메라 트래킹(심화)
         - 2D 포인트 트래킹(심화)
         - 솔빙(심화)
+            - Parameter Adjusment Window
         - 렌즈 디스토션 워크플로우
 1. Maya
     - 더미 모델링
-        - Triangulate Point
+        - Triangulate Points
     - 아웃라이너 정리하기
         - 카메라 베이킹(Baking)
     - 프리뷰 만들기(심화)
