@@ -25,7 +25,8 @@
     - 프리뷰 만들기(기초)
         - 플레이 블라스트(Playblast)
         - 뷰포트 2.0(Viewport 2.0)
-        - 홀드 아웃(Hold Out)
+            1. 홀드 아웃(Hold Out)
+            1. 안티앨리어싱(Anti-aliasing)
 1. 과제
     - 매치무브 관련 영상들 조사
 
