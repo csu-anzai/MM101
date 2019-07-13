@@ -59,5 +59,18 @@
 
 
 ### 4주차
-
+1. About On-set
+    - 현장 업무에 대한 이해 및 수행 요령
+        - Shoting
+        - VFX Notes
+        - Tracking Markers
+        - Grid Shot
+        - Survey Data
+    - 현장 정보에 대한 중요성
+        - VFX Note의 정보를 이용한 원근매치 (in Maya)
+        - Image modelling (in Maya)
+        - Estimate focal (in PFTrack)
+2. Reality Capture
+      - 이미지 데이터를 이용하여 Survey data 제작해 보기
+      
 ### 5주차
