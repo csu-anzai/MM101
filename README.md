@@ -93,4 +93,4 @@
         - 카메라 베이킹(Baking)
         - 그룹핑(Grouping)
 1. 과제
-    -프리뷰 만들기(Hold-out & Cone & Checker) & 유튜브 업로드
+    - 프리뷰 만들기(Hold-out & Cone & Checker) & 유튜브 업로드
