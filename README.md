@@ -71,7 +71,12 @@
         - VFX Note의 정보를 이용한 원근매치 (in Maya)
         - Image modelling (in Maya)
         - Estimate focal (in PFTrack)
-2. Reality Capture
+1. Reality Capture
       - 이미지 데이터를 이용하여 Survey data 제작해 보기
-      
+1. 과제
+    - 같은 공간에서 서로 다른 각도로 3컷 이상 촬영해 오기
+        - 24fps
+        - Cut 당 3초 이하  
+    - 촬영이 선행된 장소에 해당하는 이미지 스캔을 위해 촬영 소스 준비하기.
+    
 ### 5주차
