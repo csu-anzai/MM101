@@ -79,6 +79,18 @@
         - 24fps
         - Cut 당 3초 이하  
     - 촬영이 선행된 장소에 해당하는 공간 Image modelling 제작 해오기
+        - Camera 데이터가 존재하는 .ma 파일 및 Undistort IMAGES
     
     
 ### 5주차
+1. Ready Survey
+    - 과제로 진행 됐던 Survey 데이터 점검 및 보충
+1. 3DEqualizer
+    - Tracking & Lineup & Solving
+        - 3shot 이상 Lineup Survey data 및 Solving
+1. Maya
+    - 아웃라이너 정리하기
+        - 카메라 베이킹(Baking)
+        - 그룹핑(Grouping)
+1. 과제
+    -프리뷰 만들기(Hold-out & Cone & Checker) & 유튜브 업로드
