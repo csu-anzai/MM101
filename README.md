@@ -47,15 +47,17 @@
         - 체커(Checker)
 1. 과제
     - 더미 모델 완성하기
-    - 프리뷰 만들기(Hold-out & Cone & Checker)
+    - 프리뷰 만들기(Hold-out & Cone & Checker) & 유튜브 업로드
 
 ### 3주차
 1. 3DEqualizer
     - 오브젝트 트래킹
         - 포인트 그룹(Point Group) 이해하기
 1. Maya
-    - 월드 스페이스(World Space) & 로컬 스페이스(Local Space) & 스크린 스페이스(Screen Space) 
+    - 월드 스페이스(World Space) & 로컬 스페이스(Local Space) & 스크린 스페이스(Screen Space)
+    - 로테이션 오더(Rotation Order) & 짐벌락(Gimbal Lock)
 1. 과제
+    - 프리뷰 만들기(Hold-out & Cone & Checker) & 유튜브 업로드
 
 
 ### 4주차
