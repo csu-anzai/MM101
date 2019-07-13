@@ -71,14 +71,14 @@
         - Survey Data
     - 현장 정보에 대한 중요성
         - VFX Note의 정보를 이용한 원근매치 (in Maya)
-        - Image modelling (in Maya)
-        - Estimate focal (in PFTrack)
-1. Reality Capture
-      - 이미지 데이터를 이용하여 Survey data 제작해 보기
+1. Survey data 제작
+    - Image modelling (in 3DE)
+        - Creating Survey out of Reference Frames
 1. 과제
     - 같은 공간에서 서로 다른 각도로 3컷 이상 촬영해 오기
         - 24fps
         - Cut 당 3초 이하  
-    - 촬영이 선행된 장소에 해당하는 이미지 스캔을 위해 촬영 소스 준비하기.
+    - 촬영이 선행된 장소에 해당하는 공간 Image modelling을 위한 사진 소스 준비
+    
     
 ### 5주차
