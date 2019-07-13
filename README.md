@@ -64,6 +64,7 @@
         - Shoting
         - VFX Notes
         - Tracking Markers
+            -실습을 통한 상황별 Marker들의 특성 이
         - Grid Shot
         - Survey Data
     - 현장 정보에 대한 중요성
