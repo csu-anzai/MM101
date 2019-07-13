@@ -28,7 +28,7 @@
             1. 안티앨리어싱(Anti-aliasing)
 1. 과제
     - cam_track_v02 플레이트 카메라 트래킹
-    - 프리뷰 만들기(Hold-out & Cone & Checker) & 유튜브 업로드    
+    - 프리뷰 만들기(Hold-out) & 유튜브 업로드    
     - 매치무브 관련 영상들 조사(키워드: Matchmove, Camera Tracking, Object Tracking, Face Tracking, Rotomation 등)
 
 ### 2주차
