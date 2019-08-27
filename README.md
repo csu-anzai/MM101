@@ -6,9 +6,22 @@
 
 ## 내용
 
-
-
-
+### n주차
+1. 매치무브 기초
+    - 매치무브 이해
+        - What?  .3D to 2D & 2D to 3D
+        - Why?
+        - Who? Matchmove Artist, Matchmover, Integration Artist
+        - How? 손으로, MCC(Motion Control Camera), Matchmove Software
+    - 매치무브 작업 과정
+        - 촬영물 분석하기
+        - 수집한 정보 적용하기
+        - 3D 카메라 만들기
+        - 더미 모델링
+        - 테스트
+        - 퍼블리시
+    - 매치무브와 파이프라인
+    
 
 
 
