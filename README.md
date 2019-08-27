@@ -10,20 +10,26 @@
 1. 매치무브 기초
     - 매치무브 이해
         - What?  .3D to 2D & 2D to 3D
-        - Why?
+        - Why? CG요소를 실촬영본에 배치하고자 할때(그 반대도) 매치무브 작업은 필수다. 
         - Who? Matchmove Artist, Matchmover, Integration Artist
         - How? 손으로, MCC(Motion Control Camera), Matchmove Software
     - 매치무브 작업 과정
-        - 촬영물 분석하기
-        - 수집한 정보 적용하기
-        - 3D 카메라 만들기
-        - 더미 모델링
-        - 테스트
-        - 퍼블리시
+        - 촬영물 분석하기 (Evaluating the Footage)
+        - 수집한 정보 적용하기 (Applying Information)
+        - 3D 카메라 만들기 (Define the Camera)
+        - 더미 모델링 (Set Fitting)
+        - 매치무브 테스트 (Testing the Matchmove)
+        - 퍼블리시 (Delivering the Scene)
     - 매치무브와 파이프라인
-    
+    - 퍼스펙티브 매칭(Perspective Matching) 연습
+        - Maya에서 3D 카메라를 생성하고, 초점거리(Focal Length) & 필름백(Film Back) 값 적용하기.
+        - 3D 카메라에 잘못된 정보가 들어갔을 때.
 
-
+### n주차
+1. 매치무브 소프트웨어
+    - 사진측량(Photogrammetry-포토그래미트리)
+        - 사진들을 분석해서 물체를 측정하는 기술.
+        - 시차(Parallax)
 
 
 
