@@ -24,8 +24,11 @@
         1. 매치무브 테스트 (Testing the Matchmove)
         1. 퍼블리시 (Delivering the Scene)
     - 매치무브와 파이프라인
-    - 퍼스펙티브 매칭(Perspective Matching) 튜토리얼
+    - 퍼스펙티브 매칭(Perspective Matching) 연습
+        - 매치무브 소프트웨어를 사용하지 않고 Maya에서 손으로 카메라의 위치를 찾는 연습. 한장.
         - 3D 카메라를 생성하고, 초점거리(Focal Length) & 필름백(Film Back) 값 적용하기.
+            - Focal Length: 16mm
+            - Film Back: 18 X 12mm
         - 3D 카메라에 잘못된 정보가 들어갔을 때 결과 살펴보기.
 
 1. 매치무브 소프트웨어
