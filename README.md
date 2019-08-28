@@ -7,15 +7,18 @@
 ## 내용
 
 ### n주차
+
 1. 매치무브 기초
     - 매치무브 이해
-        - What?  .3D to 2D & 2D to 3D
+        - What? 3D to 2D & 2D to 3D
         - Why? CG요소를 실촬영본에 배치하고자 할때(그 반대도) 매치무브 작업은 필수다. 
         - Who? Matchmove Artist, Matchmover, Integration Artist
         - How? 손으로, MCC(Motion Control Camera), Matchmove Software
     - 매치무브 작업 과정
-        - 촬영물 분석하기 (Evaluating the Footage)
-        - 수집한 정보 적용하기 (Applying Information)
+        - 푸티지 평가 (Evaluating the Footage)
+        - 정보 적용 (Applying Information)
+            - 촬영장 실측 (Set Measurements)
+            - Survey Data
         - 3D 카메라 만들기 (Define the Camera)
         - 더미 모델링 (Set Fitting)
         - 매치무브 테스트 (Testing the Matchmove)
@@ -40,7 +43,7 @@
     - 렌즈의 한계
         - 왜곡수차
         
-## n주차
+### n주차
 
 1. Camera Tracking with 3DEqualizer
 
