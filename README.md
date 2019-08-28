@@ -30,8 +30,15 @@
         - 사진들을 분석해서 물체를 측정하는 기술.
         - 시차(Parallax)
 
-1. 카메라
-    - 카메라 종류 - Compact, Mirrorless, DSLR, Film, Cinema 등
+1. 카메라 & 사진
+    - 카메라 종류
+        - Compact, Mirrorless, DSLR, Film, Cinema 등
+    - 렌즈(Lens) & 바디(Body)
+        - 렌즈는 빛을 굴절 시키는 역할
+        - 바디에는 렌즈를 통과한 빛을 기록하는 필름 또는 디지털 센서가 들어있다
+    - 사진이 만들어지는 과정
+        
+## n주차
 
 1. Camera Tracking with 3DEqualizer
 
