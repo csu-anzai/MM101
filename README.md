@@ -24,9 +24,9 @@
         - 매치무브 테스트 (Testing the Matchmove)
         - 퍼블리시 (Delivering the Scene)
     - 매치무브와 파이프라인
-    - 퍼스펙티브 매칭(Perspective Matching) 연습
-        - Maya에서 3D 카메라를 생성하고, 초점거리(Focal Length) & 필름백(Film Back) 값 적용하기.
-        - 3D 카메라에 잘못된 정보가 들어갔을 때.
+    - 퍼스펙티브 매칭(Perspective Matching) 연습 in Maya
+        - 3D 카메라를 생성하고, 초점거리(Focal Length) & 필름백(Film Back) 값 적용하기.
+        - 3D 카메라에 잘못된 정보가 들어갔을 때 결과 살펴보기.
 
 1. 매치무브 소프트웨어
     - 사진측량(Photogrammetry-포토그래미트리)
