@@ -13,7 +13,7 @@
         - What? 3D to 2D & 2D to 3D
         - Why? CG요소를 실촬영본에 배치하고자 할때(그 반대도) 매치무브 작업은 필수다. 
         - Who? Matchmove Artist, Matchmover, Integration Artist
-        - How? 손으로, MCC(Motion Control Camera), Matchmove Software
+        - How? 손으로(By Hand), MCC(Motion Control Camera), Matchmove Software(3DEqualizer, PFTrack, Syntheyes 등)
     - 매치무브 작업 과정
         - 푸티지 평가 (Evaluating the Footage)
         - 정보 적용 (Applying Information)
