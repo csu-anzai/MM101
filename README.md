@@ -15,21 +15,22 @@
         - Who? Matchmove Artist, Matchmover, Integration Artist
         - How? 손으로(By Hand), MCC(Motion Control Camera), Matchmove Software(3DEqualizer, PFTrack, Syntheyes 등)
     - 매치무브 작업 과정
-        - 푸티지 평가 (Evaluating the Footage)
-        - 정보 적용 (Applying Information)
+        1. 푸티지 평가 (Evaluating the Footage)
+        1. 정보 적용 (Applying Information)
             - 촬영장 실측 (Set Measurements)
             - Survey Data
-        - 3D 카메라 만들기 (Define the Camera)
-        - 더미 모델링 (Set Fitting)
-        - 매치무브 테스트 (Testing the Matchmove)
-        - 퍼블리시 (Delivering the Scene)
+        1. 3D 카메라 만들기 (Define the Camera)
+        1. 더미 모델링 (Set Fitting)
+        1. 매치무브 테스트 (Testing the Matchmove)
+        1. 퍼블리시 (Delivering the Scene)
     - 매치무브와 파이프라인
-    - 퍼스펙티브 매칭(Perspective Matching) 연습 in Maya
+    - 퍼스펙티브 매칭(Perspective Matching) 튜토리얼
         - 3D 카메라를 생성하고, 초점거리(Focal Length) & 필름백(Film Back) 값 적용하기.
         - 3D 카메라에 잘못된 정보가 들어갔을 때 결과 살펴보기.
 
 1. 매치무브 소프트웨어
-    - 사진측량(Photogrammetry-포토그래미트리)
+    - 사진측량
+        - Photogrammetry(포토그래미트리) = Photos(빛) + Grama(형상) + Metry(재다)
         - 사진들을 분석해서 물체를 측정하는 기술.
         - 시차(Parallax)
 
@@ -45,7 +46,14 @@
     - 초점거리
     - 필름백
     
-1. 3DEqualizer 
+1. 카메라 트래킹 튜토리얼
+    - 3DEqualizer 살펴보기
+        - Windows
+        - Controls
+    - 카메라 트래킹    
+        - 정보(Information)
+            - Focal Length: 24mm
+            - Film Back: 
         
 ### n주차
 
