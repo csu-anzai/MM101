@@ -24,6 +24,7 @@
         1. 매치무브 테스트 (Testing the Matchmove)
         1. 딜리버 (Delivering the Scene)
     - 매치무브와 파이프라인
+        - 프로덕션(Production)과 포스트 프로덕션(Post Production)을 이어주는 다리 역할.
     - 퍼스펙티브 매칭(Perspective Matching) 연습
         - 매치무브 소프트웨어를 사용하지 않고 Maya에서 손으로 카메라의 위치를 찾는 연습. 한장.
         - 3D 카메라를 생성하고, 초점거리(Focal Length) & 필름백(Film Back) 값 적용하기.
