@@ -60,7 +60,7 @@
     - 필름백(Film Back)
     - 화각(Angle of View)
     
-1. 카메라 트래킹 in 3DEqualizer
+1. 카메라 트래킹 in 3DEqualizer (기초)
     - 3DEqualizer 살펴보기
         - Windows
         - Controls
@@ -69,10 +69,14 @@
             - Focal Length: 24mm
             - Film Back: 36 X 24mm
         - 2D Point
-        
+
 ### n주차
 
-1. Camera Tracking with 3DEqualizer
+1. 카메라 트래킹 in 3DEqualizer (심화)
+
+### n주차
+
+1. 오브젝트 트래킹 in 3DEqualizer
 
 
 
