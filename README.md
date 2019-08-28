@@ -19,7 +19,9 @@
         1. 정보 적용 (Applying Information)
             - 촬영장 실측 (Set Measurements)
             - Survey Data
-        1. 3D 카메라 만들기 (Define the Camera)
+        1. 카메라 규정하기 (Define the Camera)
+            - 내부 파라미터: 포컬랭스(Focal Length), 필름백(Film Back)
+            - 외부 파라미터: Translation(Position) XYZ, Rotation(Orientaion) XYZ
         1. 셋 피팅 (Set Fitting)
         1. 매치무브 테스트 (Testing the Matchmove)
         1. 딜리버 (Delivering the Scene)
@@ -27,7 +29,7 @@
         - 프로덕션(Production)과 포스트 프로덕션(Post Production)을 이어주는 다리 역할.
         - 포스트 프로덕션 파이프라인 첫 단추.
     - 퍼스펙티브 매칭(Perspective Matching) 연습
-        - 매치무브 소프트웨어를 사용하지 않고 Maya에서 **손으로** 카메라의 위치를 찾는 연습. 한장.
+        - 매치무브 소프트웨어를 사용하지 않고 **Maya에서 손으로 카메라의 위치를 찾는 연습**. 한장.
         - 3D 카메라를 생성하고, 초점거리(Focal Length) & 필름백(Film Back) 값 적용하기.
             - Focal Length: 16mm
             - Film Back: 18 X 12mm
