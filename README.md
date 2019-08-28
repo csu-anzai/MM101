@@ -20,8 +20,8 @@
             - 촬영장 실측 (Set Measurements)
             - Survey Data
         1. 카메라 규정하기 (Define the Camera)
-            - 내부 파라미터: 포컬랭스(Focal Length), 필름백(Film Back)
-            - 외부 파라미터: Translation(Position) XYZ, Rotation(Orientaion) XYZ
+            - 카메라 내부 파라미터: 포컬랭스(Focal Length), 필름백(Film Back) 등
+            - 카메라 외부 파라미터: Translation(Position) XYZ, Rotation(Orientaion) XYZ
         1. 셋 피팅 (Set Fitting)
         1. 매치무브 테스트 (Testing the Matchmove)
         1. 딜리버 (Delivering the Scene)
@@ -38,7 +38,7 @@
 1. 매치무브 소프트웨어
     - 사진측량
         - Photogrammetry(포토그래미트리) = Photos(빛) + Grama(형상) + Metry(재다)
-        - 사진들을 분석해서 물체를 측정하는 기술.
+        - 사진들로부터 물체를 측정하는 기술.
         - 시차(Parallax)
 
 1. 카메라 & 사진
@@ -47,25 +47,28 @@
     - 렌즈(Lens) & 바디(Body)
         - 렌즈는 빛을 굴절 시키는 역할.
         - 바디에는 렌즈를 통과한 빛을 형상화하는 "이미지 센서"가 들어있다.
-    - 사진이 만들어지는 과정
+    - 사진은 어떻게 만들어지는가?
     - 사진(이미지) 관련 용어 정리
         - 이미지 종횡비(Image Aspect)
             - 가로(Width) ÷ 세로(Height)
             - 1920 ÷ 1080 = 1.7778
         - 픽셀 종횡비(Pixel Aspect)
-    - 초점거리
-    - 필름백
+            - 보통은 1
+            - 아나몰픽 렌즈를 사용한 경우 1.33, 1.5 또는 2
+    - 초점거리(Focal Length)
+        - 렌즈의 제2주점 부터 센서(또는 필름) 까지의 거리.
+    - 필름백(Film Back)
+    - 화각(Angle of View)
     
 1. 카메라 트래킹 in 3DEqualizer
     - 3DEqualizer 살펴보기
         - Windows
         - Controls
     - 카메라 트래킹    
-        - 정보(Information)
-            - Focal Length: 24mm
-            - Film Back: 
         - Attribute Editor에 정보 입력하기
-            - 
+            - Focal Length: 24mm
+            - Film Back: 36 X 24mm
+        - 2D Point
         
 ### n주차
 
