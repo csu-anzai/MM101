@@ -25,11 +25,17 @@
         - Maya에서 3D 카메라를 생성하고, 초점거리(Focal Length) & 필름백(Film Back) 값 적용하기.
         - 3D 카메라에 잘못된 정보가 들어갔을 때.
 
-### n주차
 1. 매치무브 소프트웨어
     - 사진측량(Photogrammetry-포토그래미트리)
         - 사진들을 분석해서 물체를 측정하는 기술.
         - 시차(Parallax)
+
+1. 카메라
+    - 카메라 종류 - Compact, Mirrorless, DSLR, Film, Cinema 등
+
+1. Camera Tracking with 3DEqualizer
+
+
 
 
 
