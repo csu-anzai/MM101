@@ -22,7 +22,7 @@
         1. 3D 카메라 만들기 (Define the Camera)
         1. 더미 모델링 (Set Fitting)
         1. 매치무브 테스트 (Testing the Matchmove)
-        1. 퍼블리시 (Delivering the Scene)
+        1. 딜리버 (Delivering the Scene)
     - 매치무브와 파이프라인
     - 퍼스펙티브 매칭(Perspective Matching) 연습
         - 매치무브 소프트웨어를 사용하지 않고 Maya에서 손으로 카메라의 위치를 찾는 연습. 한장.
