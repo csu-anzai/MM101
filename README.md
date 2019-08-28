@@ -53,7 +53,7 @@
     - 초점거리
     - 필름백
     
-1. 카메라 트래킹 튜토리얼
+1. 카메라 트래킹 in 3DEqualizer
     - 3DEqualizer 살펴보기
         - Windows
         - Controls
@@ -61,6 +61,8 @@
         - 정보(Information)
             - Focal Length: 24mm
             - Film Back: 
+        - Attribute Editor에 정보 입력하기
+            - 
         
 ### n주차
 
