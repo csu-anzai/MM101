@@ -59,10 +59,12 @@
             - 픽셀 가로(Width) ÷ 픽셀 세로(Height)
             - 보통은 1
             - 아나몰픽 렌즈를 사용한 경우 1.33, 1.5 또는 2
-    - 초점거리(Focal Length)
+    - 초점거리(Focal Length, 포컬랭스)
         - 렌즈의 제2주점 부터 센서(또는 필름) 까지의 거리.
+        - 초점거리
+        - 포커스 디스턴스(Focus Distance)는, 카메라부터 피사체 까지의 거리.
     - 필름백(Film Back)
-    - 화각(Angle of View)
+    - 화각(Angle of View, 앵글 오브 뷰)
     
 1. 카메라 트래킹 in 3DEqualizer (기초)
     - 3DEqualizer 살펴보기
