@@ -80,7 +80,9 @@
     - 3DEqualizer 살펴보기
         - Windows
         - Controls
-    - 카메라 트래킹    
+    - 카메라 트래킹
+        - 이미지 불러오기(import)
+            - Reference Camera
         - Attribute Editor에 정보 입력하기
             - Focal Length: 24mm
             - Film Back: 36 × 24mm
@@ -89,6 +91,20 @@
 ### 2주차
 
 1. 카메라 트래킹 in 3DEqualizer (심화)
+    - 카메라 트래킹
+        - 이미지 불러오기(import)
+            - Sequence Camera
+            - 파일: trackboy
+        - Attribute Editor에 정보 입력하기
+            - Focal Length: ?mm (Metadata, 메타데이터)
+            - Film Back: ? × ?mm
+        - 2D Point
+            - Manual Tracking Controls(F2)
+            - Basic Hotkeys
+                - <kbd>t</kbd>: Track all frames
+                - <kbd>,</kbd>,<kbd>.</kbd>: Track backward 1 frame, Track foreward 1 frame
+                - <kbd>e</kbd>: Start Point & End Point
+                - <kbd>ctrl + r</kbd>: 
 
 ### n주차
 
