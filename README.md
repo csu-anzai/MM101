@@ -10,10 +10,13 @@
 
 1. 매치무브 기초
     - 매치무브 이해
-        - What? 3D to 2D & 2D to 3D
-        - Why? CG요소를 실촬영본에 배치하고자 할때(그 반대도) 매치무브 작업은 필수다. 
-        - Who? Matchmove Artist, Matchmover, Integration Artist
-        - How? 손으로(By Hand), MCC(Motion Control Camera), Matchmove Software(3DEqualizer, PFTrack, Syntheyes 등)
+        1. What? 3D to 2D & 2D to 3D
+        1. Why? CG요소를 실촬영본에 배치하고자 할때(그 반대도) 매치무브 작업은 필수다. 
+        1. Who? Matchmove Artist, Matchmover, Integration Artist
+        1. How?
+            - 손으로(By Hand)
+            - MCC(Motion Control Camera)
+            - Matchmove Software(3DEqualizer, PFTrack, Syntheyes 등)
     - 매치무브 작업 과정
         1. 푸티지 평가 (Evaluating the Footage)
         1. 정보 적용 (Applying Information)
