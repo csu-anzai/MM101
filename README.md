@@ -24,7 +24,7 @@
             - Survey Data
         1. 카메라 규정하기 (Define the Camera)
             - 카메라 내부 파라미터: 포컬랭스(Focal Length), 필름백(Film Back) 등
-            - 카메라 외부 파라미터: Translation(Position) XYZ, Rotation(Orientaion) XYZ
+            - 카메라 외부 파라미터: 위치(Translation 또는 Position), 회전(Rotation 또는 Orientaion)
         1. 셋 피팅 (Set Fitting)
         1. 매치무브 테스트 (Testing the Matchmove)
         1. 딜리버 (Delivering the Scene)
