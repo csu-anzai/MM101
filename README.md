@@ -6,7 +6,7 @@
 
 ## 내용
 
-### n주차
+### 1주차
 
 1. 매치무브 기초
     - 매치무브 이해
@@ -35,7 +35,7 @@
         - 매치무브 소프트웨어를 사용하지 않고 **Maya에서 손으로 카메라의 위치를 찾는 연습**. 한장.
         - 3D 카메라를 생성하고, 초점거리(Focal Length) & 필름백(Film Back) 값 적용하기.
             - Focal Length: 16mm
-            - Film Back: 18 X 12mm
+            - Film Back: 18 × 12mm
         - 3D 카메라에 잘못된 정보가 들어갔을 때 결과 살펴보기.
 
 1. 매치무브 소프트웨어
@@ -53,9 +53,10 @@
     - 사진은 어떻게 만들어지는가?
     - 사진(이미지) 관련 용어 정리
         - 이미지 종횡비(Image Aspect)
-            - 가로(Width) ÷ 세로(Height)
+            - 이미지 가로(Width) ÷ 이미지 세로(Height)
             - 1920 ÷ 1080 = 1.7778
         - 픽셀 종횡비(Pixel Aspect)
+            - 픽셀 가로(Width) ÷ 픽셀 세로(Height)
             - 보통은 1
             - 아나몰픽 렌즈를 사용한 경우 1.33, 1.5 또는 2
     - 초점거리(Focal Length)
@@ -70,10 +71,10 @@
     - 카메라 트래킹    
         - Attribute Editor에 정보 입력하기
             - Focal Length: 24mm
-            - Film Back: 36 X 24mm
+            - Film Back: 36 × 24mm
         - 2D Point
 
-### n주차
+### 2주차
 
 1. 카메라 트래킹 in 3DEqualizer (심화)
 
