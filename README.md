@@ -15,7 +15,7 @@
         1. Who? Matchmove Artist, Matchmover, Integration Artist
         1. How?
             - 손으로(By Hand)
-            - MCC(Motion Control Camera)
+            - [MCC(Motion Control Camera)](https://youtu.be/UIwdCN4dV6w)
             - Matchmove Software(3DEqualizer, PFTrack, Syntheyes 등)
     - 매치무브 작업 과정
         1. 푸티지 평가 (Evaluating the Footage)
