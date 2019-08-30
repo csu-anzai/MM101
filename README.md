@@ -23,6 +23,7 @@
 1. 재밌는 영상 만들기
     1. 스톱모션(Stop Motion) 영상
     1. 하이퍼랩스(Hyperlapse) 영상
+        - 탑입랩스(Timelapse) + 움직임(Movement)
 
 
 ### 2주차
