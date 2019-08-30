@@ -20,7 +20,9 @@
     1. 프레임 레이트(Frame Rate)
         - 초당 프레임 수(FPS, Frames Per Second)
         - 영화는 24fps       
-1. 공중부양 영상 만들기
+1. 재밌는 영상 만들기
+    1. 스톱모션(Stop Motion) 영상
+    1. 하이퍼랩스(Hyperlapse) 영상
 
 
 ### 2주차
