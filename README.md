@@ -11,11 +11,15 @@
     1. 카메라 구조
     1. 셔터스피드 & ISO & 조리개
 1. [영상 기초](https://youtu.be/ZKmNUP_5TFQ)
-    1. 영 
     1. 해상도
+        - 픽셀의 수
+        - 1920 × 1080 = 2,073,600 (약 2백만)
     1. 종횡비(Aspect Ratio)
         - 이미지 종횡비(Image Aspect Ratio)
         - 픽셀 종횡비(Pixel Aspect Ratio)
+    1. 프레임 레이트(Frame Rate)
+        - 초당 프레임 수(FPS, Frames Per Second)
+        - 영화는 24fps
 
 
 ### 2주차
