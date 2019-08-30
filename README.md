@@ -47,6 +47,7 @@
             - 
 
 1. 카메라 & 사진
+    - [카메라 기초](https://youtu.be/xgx8jMrGARg)
     - 카메라 종류
         - Compact, Mirrorless, DSLR, Film, Cinema 등
     - 렌즈(Lens) & 바디(Body)
