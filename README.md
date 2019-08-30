@@ -19,7 +19,8 @@
         - 픽셀 종횡비(Pixel Aspect Ratio)
     1. 프레임 레이트(Frame Rate)
         - 초당 프레임 수(FPS, Frames Per Second)
-        - 영화는 24fps
+        - 영화는 24fps       
+1. 공중부양 영상 만들기
 
 
 ### 2주차
