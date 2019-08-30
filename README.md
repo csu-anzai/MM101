@@ -7,10 +7,15 @@
 ## 내용
 
 ### 1주차
-1. [카메라 & 사진 기초](https://www.youtube.com/watch?v=xgx8jMrGARg)
+1. [카메라 기초](https://www.youtube.com/watch?v=xgx8jMrGARg)
     1. 카메라 구조
     1. 셔터스피드 & ISO & 조리개
-1. 영상 기초
+1. [영상 기초](https://youtu.be/ZKmNUP_5TFQ)
+    1. 영 
+    1. 해상도
+    1. 종횡비(Aspect Ratio)
+        - 이미지 종횡비(Image Aspect Ratio)
+        - 픽셀 종횡비(Pixel Aspect Ratio)
 
 
 ### 2주차
