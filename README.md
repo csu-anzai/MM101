@@ -13,21 +13,9 @@
     1. 카메라 종류
         - Compact, Mirrorless, DSLR, Film, Cinema 등
     1. 카메라 구조
-        1. 렌즈
-            > ![Canon_EF-S_18-135mm_IS_qtr.jpg](imgs/Canon_EF-S_18-135mm_IS_qtr.jpg)
-            > <br>[Digital single-lens reflex camera - Wikipedia](https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera)
-            - 포커스 링(Focus Ring)
-            - 줌 링(Zoom Ring)
-                > ![Nikkor_28-200_zoom_qtr.jpg](imgs/Nikkor_28-200_zoom_qtr.jpg)
-                > <br>[Zoom lens - Wikipedia](https://en.wikipedia.org/wiki/Zoom_lens)
+        1. [렌즈](https://youtu.be/dg3kIKphB5E)
+            - 카메라의 눈
         2. 바디
-            - 셔터(Shutter)
-            - 셔터 버튼(Shutter Button)
-            - 뷰 파인더(View Finder)
-            - 모드(Mode)
-                > ![1280px-ModeDial_qtr.png](imgs/1280px-ModeDial_qtr.png)
-                > <br>[Digital camera modes - Wikipedia](https://en.wikipedia.org/wiki/Digital_camera_modes)
-            - ISO
     1. 셔터스피드 & ISO & 조리개
     
 1. [영상 기초](https://youtu.be/ZKmNUP_5TFQ)
