@@ -71,6 +71,8 @@
     - 'DJV Imaging'으로 이미지 시퀀스 재생하기
         - [DJV Imaging Download Page Link](http://djv.sourceforge.net/Download.html)
 
+### 2주차
+
 1. 카메라 심화
     - 초점거리(Focal Length, 포컬랭스)
         - [렌즈의 제2주점 부터 촬상면(센서 또는 필름) 까지의 거리.](https://guzene.tistory.com/147)
@@ -85,8 +87,6 @@
         - 필름백이 크다 = 배율이 낮다 = 화각이 넓다
         - 필름백이 작다 = 배율이 높다 = 화각이 좁다
     - 화각(Angle of View, 앵글 오브 뷰)
-
-### 2주차
 
 1. 매치무브 기초
     - 매치무브 이해
@@ -124,7 +124,7 @@
         - 사진들로부터 물체를 측정하는 기술.
         - 시차(Parallax)
             - 사람은 2D 비디오만 봐도 카메라의 궤적과 3D 공간을 어느정도 유추 할 수 있다.
-    
+
 1. 카메라 트래킹 in 3DEqualizer (기초)
     - 3DEqualizer 살펴보기
         - Windows
