@@ -50,10 +50,13 @@
             - 1 ÷ 1 = 1
     1. 프레임 레이트(Frame Rate)
         - 초당 프레임 수(FPS, Frames Per Second)
+    1. [이미지 파일 형식(Image file formats)](https://ko.wikipedia.org/wiki/이미지_파일_형식)
+        - 많이 쓰는 확장자 - jpg , png , dpx , exr 등 
     1. 이미지 시퀀스(Image Sequence) & 비디오 파일(Video File)
         - 이미지 시퀀스
-            - 동영상을 
-            - 많이 쓰는 확장자 - jpg , png , dpx , exr 등
+            - 동영상을
+            - <네임(Name)>.<패딩(Padding)>.<확장자(Extention)>
+            - my_video.0001.jpg , my_video.0002.jpg , my_video.0003.jpg ...
         - 비디오 파일
             - 이미지 시퀀스를 단일 파일로 압축한 파일.
             - 많이 쓰는 확장자 - mp4 , mov 등
