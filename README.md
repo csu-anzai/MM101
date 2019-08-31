@@ -9,11 +9,20 @@
 ### 1주차
 1. [카메라 기초](https://www.youtube.com/watch?v=xgx8jMrGARg)
     1. [역사](https://youtu.be/-Y4YZlEQafs)
+    1. 카메라 종류
+        - Compact, Mirrorless, DSLR, Film, Cinema 등
     1. 카메라 구조
         1. 렌즈
+            - 포커스 링(Focus Ring)
+            - 줌 링(Zoom Ring)
+            - 조리개(Aperture)
         2. 바디
+            - 셔터(Shutter)
+            - 셔터 버튼(Shutter Button)
+            - 뷰 파인더(View Finder)
+            - 모드(
+            - ISO
     1. 셔터스피드 & ISO & 조리개
-    1. 초점거리(Focal Length, 포컬랭스)
     
 1. [영상 기초](https://youtu.be/ZKmNUP_5TFQ)
     - 영상: 이미지(Image). 정지 사진(Still Picture).
@@ -94,12 +103,9 @@
         - 사진들로부터 물체를 측정하는 기술.
         - 시차(Parallax)
             - 사람은 2D 비디오만 봐도 카메라의 궤적과 3D 공간을 어느정도 유추 할 수 있다.
-            - 
 
-1. 카메라 & 사진
-    - [카메라 기초](https://youtu.be/xgx8jMrGARg)
-    - 카메라 종류
-        - Compact, Mirrorless, DSLR, Film, Cinema 등
+1. 카메라 심화
+
     - 렌즈(Lens) & 바디(Body)
         1. [렌즈](https://www.youtube.com/watch?v=EL9J3Km6wxI)
             - 렌즈는 빛을 굴절 시키는 역할.
