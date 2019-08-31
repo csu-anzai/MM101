@@ -38,8 +38,8 @@
             - 조리개 값이 낮을수록 사진이 밝아짐. 같은 시간에 센서가 더 많은 양의 빛에 노출되어서.
             - 하지만 조리개 값이 낮을수록 심도가 얕아진다. 
             - 렌즈에서 제어
-    1. 포커스(Focus) & 줌(Zoom)
-        1. [포커스](https://upload.wikimedia.org/wikipedia/commons/1/14/CostaRica_Working_Rack_Focus_from_wires.webm)
+    1. 초점(Focus, 포커스) & 줌(Zoom)
+        1. [포커스 이동(Rack Focus, 랙 포커스)](https://upload.wikimedia.org/wikipedia/commons/1/14/CostaRica_Working_Rack_Focus_from_wires.webm)
         1. [줌](https://youtu.be/mRp13pRzzWQ)
     
 1. [영상 기초](https://youtu.be/ZKmNUP_5TFQ)
