@@ -8,8 +8,9 @@
 
 ### 1주차
 1. [카메라 기초](https://www.youtube.com/watch?v=xgx8jMrGARg)
+    1. [역사](https://youtu.be/-Y4YZlEQafs)
     1. 카메라 구조
-        1. [렌즈](https://youtu.be/-Y4YZlEQafs)
+        1. 렌즈
         2. 바디
     1. 셔터스피드 & ISO & 조리개
     1. 초점거리(Focal Length, 포컬랭스)
