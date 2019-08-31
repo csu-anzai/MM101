@@ -30,8 +30,12 @@
         - 표기법: <가로줄 픽셀개수> × <새로줄 픽셀개수>
         - 1920 × 1080 = 2,073,600
     1. 종횡비(Aspect Ratio)
+        - <가로> ÷ <새로>
         - 이미지 종횡비(Image Aspect Ratio)
+            - 6000 ÷ 4000 = 1.5
+            - 1920 ÷ 1080 = 1.778
         - 픽셀 종횡비(Pixel Aspect Ratio)
+            - 1 ÷ 1 = 1
     1. 프레임 레이트(Frame Rate)
         - 초당 프레임 수(FPS, Frames Per Second)      
 1. [탑임랩스(Time Lapse) 동영상](https://youtu.be/_Ecxt_W96x0) 만들기
