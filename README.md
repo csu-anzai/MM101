@@ -15,7 +15,9 @@
     1. 카메라 구조
         1. [렌즈](https://youtu.be/dg3kIKphB5E)
             - 카메라의 눈
+            - 초점거리(Focal Length, 포컬랭스)
         2. 바디
+            - 촬상면(이미지 센서 또는 필름)
     1. 셔터스피드 & ISO & 조리개
     
 1. [영상 기초](https://youtu.be/ZKmNUP_5TFQ)
