@@ -137,19 +137,22 @@
 
 1. 카메라 트래킹 in 3DEqualizer (심화)
     - 카메라 트래킹
-        - 이미지 불러오기(import)
+        1. 이미지 불러오기(import)
             - Sequence Camera
             - 파일: trackboy
-        - Attribute Editor에 정보 입력하기
+        1. Attribute Editor에 정보 입력하기
             - Focal Length: ?mm (Metadata, 메타데이터)
             - Film Back: ? × ?mm
-        - 2D Point
+        1. 2D Point
             - Manual Tracking Controls(F2)
             - Basic Hotkeys
                 - <kbd>t</kbd>: Track all frames
                 - <kbd>,</kbd>,<kbd>.</kbd>: Track backward 1 frame, Track foreward 1 frame
                 - <kbd>e</kbd>: Start Point & End Point
-                - <kbd>ctrl + r</kbd>: 
+                - <kbd>ctrl + r</kbd>: Remove Keyframe
+         1. Solving
+         1. Parameter Adjustment
+         1. 
 
 ### n주차
 
