@@ -20,8 +20,17 @@
             - 촬상면(이미지 센서 또는 필름)
     1. 셔터 스피드 & ISO & 조리개
         1. 셔터 스피드(Shutter Speed)
+            - 필름 또는 센서가 빛에 노출 되는 시간을 제어
+            - 1": 필름 또는 센서가 1초 동안 빛에 노출 됨
+            - 1/100: 필름 또는 센서가 100 분의 1초 동안 빛에 노출 됨
+            - 1/1000: 필름 또는 센서가 1000 분의 1초 동안 빛에 노출 됨
+            - 셔터 스피드가 느릴수록 사진이 밝아짐. 빛에 노출 되는 시간이 길어져서.
+            - 하지만 셔터 스피드가 느릴수록 잔상(Motion Blur, 모션블러)이 생김.
             - 바디에서 제어
         1. ISO
+            - 센서의 빛에 대한 민감도 제어 (필름은 ISO가 고정)
+            - ISO가 높을수록 사진이 밝아짐.
+            - 하지만 ISO가 높을수록 사진 사진에 노이즈(Noise)가 많이 생김.
             - 바디에서 제어
         1. 조리개
             - 렌즈를 통해 들어오는 빛의 양을 조절하는 구멍.
@@ -61,7 +70,7 @@
         - 비디오 파일
             - 이미지 시퀀스를 단일 파일로 압축한 파일.
             - 많이 쓰는 확장자 - mp4 , mov 등
-        - CG툴(Autodesk Maya, 3DEqualzier 등)은 보통 이미지 시퀀스 친화적. 반대로, 편집툴(Premiere Pro, Final Cut Pro)은 비디오 파일 친화적.
+        - CG툴(Autodesk Maya, 3DEqualizer 등)은 보통 이미지 시퀀스 친화적. 반대로, 편집툴(Premiere Pro, Final Cut Pro)은 비디오 파일 친화적.
      
 1. [탑임랩스(Time Lapse) 동영상](https://youtu.be/_Ecxt_W96x0) 만들기
     - 카메라를 움직이면 더 다이나믹 하고 재미있는 [하이퍼랩스(Hyperlapse) 동영상](https://upload.wikimedia.org/wikipedia/commons/9/98/Brisbane_Hyperlapse_2013_%28trimmed%29.ogv)을 만들 수 있다.
