@@ -38,6 +38,9 @@
             - 조리개 값이 낮을수록 사진이 밝아짐. 같은 시간에 센서가 더 많은 양의 빛에 노출되어서.
             - 하지만 조리개 값이 낮을수록 심도가 얕아진다. 
             - 렌즈에서 제어
+    1. 포커스(Focus) & 줌(Zoom)
+        1. 포커스
+        1. 줌
     
 1. [영상 기초](https://youtu.be/ZKmNUP_5TFQ)
     - 영상: 이미지(Image). 정지 사진(Still Picture).
@@ -76,7 +79,7 @@
         - CG툴(Autodesk Maya, 3DEqualizer 등)은 보통 이미지 시퀀스 친화적. 반대로, 편집툴(Premiere Pro, Final Cut Pro)은 비디오 파일 친화적.
      
 1. [하이퍼랩스(Hyperlapse) 동영상](https://upload.wikimedia.org/wikipedia/commons/9/98/Brisbane_Hyperlapse_2013_%28trimmed%29.ogv) 만들기
-    - [타임랩스(Time Lapse) 동영상](https://youtu.be/_Ecxt_W96x0) + 움직임(Movement)
+    - 하이퍼랩스란? [타임랩스(Time Lapse) 동영상](https://youtu.be/_Ecxt_W96x0) + 움직임(Movement)
     - 촬영한 사진들로 이미지 시퀀스(Image Sequence) 만들기
         - XnViewMP로 리네이밍(Renaming)
         - [XnViewMP Download Page Link](https://www.xnview.com/en/xnviewmp/)
@@ -118,7 +121,7 @@
             - 카메라 내부 파라미터: 포컬랭스(Focal Length), 필름백(Film Back) 등
             - 카메라 외부 파라미터: 위치(Translation 또는 Position), 회전(Rotation 또는 Orientaion)
         1. 셋 피팅 (Set Fitting)
-        1. 매치무브 테스트 (Testing the Matchmove)
+        1. 테스트 (Testing)
         1. 딜리버 (Delivering the Scene)
     - 매치무브와 파이프라인
         - 프로덕션(Production)과 포스트 프로덕션(Post Production)을 이어주는 다리 역할.
