@@ -21,8 +21,13 @@
     - 동영상: 시간상 연속된 정지 사진들의 모음. 마치 움직이는 듯한 느낌의 착각.
         > ![The_Horse_in_Motion-anim.gif](imgs/The_Horse_in_Motion-anim.gif)
         > <br>[출처 - Eadweard Muybridge - Wikipedia](https://en.wikipedia.org/wiki/Eadweard_Muybridge)
+    1. 픽셀
+        - 이미지를 구성하고 있는 최소 단위
+            > ![Pixel-example.png](imgs/Pixel-example.png)
+            > <br>[출처 - Pixel - Wikipedia](https://en.wikipedia.org/wiki/Pixel)
     1. 해상도
-        - 픽셀의 수
+        - 이미지의 픽셀개수
+        - 표기법: <가로줄 픽셀개수> × <새로줄 픽셀개수>
         - 1920 × 1080 = 2,073,600
     1. 종횡비(Aspect Ratio)
         - 이미지 종횡비(Image Aspect Ratio)
