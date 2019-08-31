@@ -39,7 +39,15 @@
             - 1 ÷ 1 = 1
     1. 프레임 레이트(Frame Rate)
         - 초당 프레임 수(FPS, Frames Per Second)
-        
+    1. 이미지 시퀀스(Image Sequence) & 비디오 파일(Video File)
+        - 이미지 시퀀스
+            - 동영상을 
+            - 많이 쓰는 확장자 - jpg , png , dpx , exr 등
+        - 비디오 파일
+            - 동영상을 단일 파일로 압축.
+            - 많이 쓰는 확장자 - mp4 , mov 등
+        - CG툴(Autodesk Maya, 3DEqualzier 등)은 보통 이미지 시퀀스 친화적. 반대로, 편집툴(Premiere Pro, Final Cut Pro)은 비디오 파일 친화적.
+     
 1. [탑임랩스(Time Lapse) 동영상](https://youtu.be/_Ecxt_W96x0) 만들기
     - 카메라를 움직이면 더 다이나믹 하고 재미있는 [하이퍼랩스(Hyperlapse) 동영상](https://upload.wikimedia.org/wikipedia/commons/9/98/Brisbane_Hyperlapse_2013_%28trimmed%29.ogv)을 만들 수 있다.
     - 이미지 시퀀스(Image Sequence) 만들기
