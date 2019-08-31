@@ -138,7 +138,10 @@
             - Film Back: 36 × 24mm
         - 2D Point
 
-### 2주차
+### 3주차
+
+1. 카메라 심화
+    - 렌즈 디스토션(Lens Distortion)
 
 1. 카메라 트래킹 in 3DEqualizer (심화)
     - 카메라 트래킹
