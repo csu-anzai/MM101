@@ -19,6 +19,7 @@
         2. 바디
             - 촬상면(이미지 센서 또는 필름)
     1. 셔터 스피드 & ISO & 조리개
+        > ![Cheatcard_85x55_300dpi_RGB_web_en_CC-BY-ND.jpg](imgs/Cheatcard_85x55_300dpi_RGB_web_en_CC-BY-ND.jpg)
         1. 셔터 스피드(Shutter Speed)
             - 필름 또는 센서가 빛에 노출 되는 시간을 제어
                 - 1": 필름 또는 센서가 1초 동안 빛에 노출 됨
