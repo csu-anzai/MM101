@@ -14,6 +14,8 @@
         - Compact, Mirrorless, DSLR, Film, Cinema 등
     1. 카메라 구조
         1. 렌즈
+            > ![Canon_EF-S_18-135mm_IS_qtr.jpg](imgs/Canon_EF-S_18-135mm_IS_qtr.jpg)
+            > <br>[Digital single-lens reflex camera - Wikipedia](https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera)
             - 포커스 링(Focus Ring)
             - 줌 링(Zoom Ring)
             - 조리개(Aperture)
