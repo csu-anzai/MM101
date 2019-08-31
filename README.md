@@ -18,6 +18,8 @@
             > <br>[Digital single-lens reflex camera - Wikipedia](https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera)
             - 포커스 링(Focus Ring)
             - 줌 링(Zoom Ring)
+                > ![Nikkor_28-200_zoom_qtr.jpg](imgs/Nikkor_28-200_zoom_qtr.jpg)
+                > <br>[Zoom lens - Wikipedia](https://en.wikipedia.org/wiki/Zoom_lens)
         2. 바디
             - 셔터(Shutter)
             - 셔터 버튼(Shutter Button)
