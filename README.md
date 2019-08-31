@@ -39,8 +39,8 @@
             - 하지만 조리개 값이 낮을수록 심도가 얕아진다. 
             - 렌즈에서 제어
     1. 포커스(Focus) & 줌(Zoom)
-        1. 포커스
-        1. 줌
+        1. [포커스](https://upload.wikimedia.org/wikipedia/commons/1/14/CostaRica_Working_Rack_Focus_from_wires.webm)
+        1. [줌](https://youtu.be/mRp13pRzzWQ)
     
 1. [영상 기초](https://youtu.be/ZKmNUP_5TFQ)
     - 영상: 이미지(Image). 정지 사진(Still Picture).
