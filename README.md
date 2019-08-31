@@ -44,7 +44,7 @@
             - 동영상을 
             - 많이 쓰는 확장자 - jpg , png , dpx , exr 등
         - 비디오 파일
-            - 동영상을 단일 파일로 압축.
+            - 이미지 시퀀스를 단일 파일로 압축한 파일.
             - 많이 쓰는 확장자 - mp4 , mov 등
         - CG툴(Autodesk Maya, 3DEqualzier 등)은 보통 이미지 시퀀스 친화적. 반대로, 편집툴(Premiere Pro, Final Cut Pro)은 비디오 파일 친화적.
      
