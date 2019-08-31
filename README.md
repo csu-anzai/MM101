@@ -23,13 +23,12 @@
         > <br>출처 - Eadweard Muybridge - Wikipedia
     1. 해상도
         - 픽셀의 수
-        - 1920 × 1080 = 2,073,600 (약 2백만)
+        - 1920 × 1080 = 2,073,600
     1. 종횡비(Aspect Ratio)
         - 이미지 종횡비(Image Aspect Ratio)
         - 픽셀 종횡비(Pixel Aspect Ratio)
     1. 프레임 레이트(Frame Rate)
-        - 초당 프레임 수(FPS, Frames Per Second)
-        - 영화는 24fps       
+        - 초당 프레임 수(FPS, Frames Per Second)      
 1. [탑임랩스(Time Lapse) 동영상](https://youtu.be/_Ecxt_W96x0) 만들기
     - 카메라를 움직이면 더 다이나믹 하고 재미있는 [하이퍼랩스(Hyperlapse) 동영상](https://upload.wikimedia.org/wikipedia/commons/9/98/Brisbane_Hyperlapse_2013_%28trimmed%29.ogv)을 만들 수 있다.
 
