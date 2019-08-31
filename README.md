@@ -12,6 +12,8 @@
     1. 셔터스피드 & ISO & 조리개
     1. 초점거리(Focal Length, 포컬랭스)
 1. [영상 기초](https://youtu.be/ZKmNUP_5TFQ)
+    - 영상: 이미지(Image). 정지 화상(Still Picture)
+    - 동영상: 이미지들을 순차적으로 재생시킨 것. 움직이는 것처럼 보이게 된다.
     1. 해상도
         - 픽셀의 수
         - 1920 × 1080 = 2,073,600 (약 2백만)
@@ -21,8 +23,8 @@
     1. 프레임 레이트(Frame Rate)
         - 초당 프레임 수(FPS, Frames Per Second)
         - 영화는 24fps       
-1. 탑임랩스(Time Lapse) 영상 만들기
-    - 카메라를 움직이면 더 다이나믹 하고 재미있는 [하이퍼랩스(Hyperlapse) 영상](https://upload.wikimedia.org/wikipedia/commons/9/98/Brisbane_Hyperlapse_2013_%28trimmed%29.ogv)을 만들 수 있다.
+1. 탑임랩스(Time Lapse) 동영상 만들기
+    - 카메라를 움직이면 더 다이나믹 하고 재미있는 [하이퍼랩스(Hyperlapse) 동영상](https://upload.wikimedia.org/wikipedia/commons/9/98/Brisbane_Hyperlapse_2013_%28trimmed%29.ogv)을 만들 수 있다.
 
 ### 2주차
 
