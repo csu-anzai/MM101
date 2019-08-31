@@ -20,7 +20,7 @@
             - 셔터(Shutter)
             - 셔터 버튼(Shutter Button)
             - 뷰 파인더(View Finder)
-            - 모드(
+            - 모드(Mode)
             - ISO
     1. 셔터스피드 & ISO & 조리개
     
