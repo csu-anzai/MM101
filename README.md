@@ -136,10 +136,12 @@
         - 시차(Parallax)
             - 사람은 2D 비디오만 봐도 카메라의 궤적과 3D 공간을 어느정도 유추 할 수 있다.
 
-1. 카메라 트래킹 in 3DEqualizer (기초)
+1. 3DEqualizer 살펴보기
+    1. Windows
+    1. Controls
+
+1. 카메라 트래킹 (기초)
     - 3DEqualizer 살펴보기
-        - Windows
-        - Controls
     - 카메라 트래킹
         - 이미지 불러오기(import)
             - Reference Camera
@@ -153,42 +155,37 @@
 1. 카메라 심화
     - 렌즈 디스토션(Lens Distortion)
 
-1. 카메라 트래킹 in 3DEqualizer (심화)
-    - 카메라 트래킹
+1. 카메라 트래킹 (심화)
+    - 카메라 트래킹 in 3DEqualizer
         1. 이미지 불러오기(import)
             - Sequence Camera
             - 파일: trackboy
         1. Attribute Editor에 정보 입력하기
             - Focal Length: ?mm (Metadata, 메타데이터)
             - Film Back: ? × ?mm
-        1. 2D Point
+        1. 2D Point Tracking
             - Manual Tracking Controls(F2)
             - Basic Hotkeys
                 - <kbd>t</kbd>: Track all frames
                 - <kbd>,</kbd>,<kbd>.</kbd>: Track backward 1 frame, Track foreward 1 frame
                 - <kbd>e</kbd>: Start Point & End Point
                 - <kbd>ctrl + r</kbd>: Remove Keyframe
-         1. Solving
-         1. Parameter Adjustment
-         1. 
+         1. 솔빙 & 정렬(Solving & Orienting)
+         1. 파라미터 조정(Parameter Adjustment)
+         1. 내보내기(Export)
+             - Export Maya Scene(.mel)
+             - Export Nuke Lens Distortion Node(.nk)
+             - Export Undistort(Dewarped) Plate
+         
 
-### n주차
+### 4주차
 
 1. 오브젝트 트래킹 in 3DEqualizer
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    - 3주차 프로젝트 파일(.3de) 열기
+    - 오브젝트 트래킹
+        1. 포인트 그룹(Point Group) 생성하기
+        1. 2D Point Tracking
+        
 
 
 
