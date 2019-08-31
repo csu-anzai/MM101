@@ -16,6 +16,7 @@
     1. 초점거리(Focal Length, 포컬랭스)
 1. [영상 기초](https://youtu.be/ZKmNUP_5TFQ)
     - 영상: 이미지(Image). 정지 사진(Still Picture).
+        - ![https://upload.wikimedia.org/wikipedia/commons/d/d2/The_Horse_in_Motion_high_res.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d2/The_Horse_in_Motion_high_res.jpg)
     - 동영상: 시간상 연속된 정지 사진들의 모음.
     1. 해상도
         - 픽셀의 수
