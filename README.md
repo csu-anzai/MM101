@@ -21,8 +21,8 @@
     1. 프레임 레이트(Frame Rate)
         - 초당 프레임 수(FPS, Frames Per Second)
         - 영화는 24fps       
-1. [하이퍼랩스(Hyperlapse)](https://youtu.be/iyRFLqfPQJ0) 영상 만들기
-    - 탑임랩스(Timelapse) + 움직임(Movement)
+1. 탑임랩스(Time Lapse) 영상 만들기
+    -[하이퍼랩스(Hyperlapse)](https://upload.wikimedia.org/wikipedia/commons/9/98/Brisbane_Hyperlapse_2013_%28trimmed%29.ogv) = 탑임랩스 + 움직임(Movement)
 
 
 ### 2주차
