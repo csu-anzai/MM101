@@ -21,7 +21,7 @@
             - 셔터 버튼(Shutter Button)
             - 뷰 파인더(View Finder)
             - 모드(Mode)
-                > ![1280px-ModeDial_half.png](imgs/1280px-ModeDial_half.png)
+                > ![1280px-ModeDial_qtr.png](imgs/1280px-ModeDial_qtr.png)
                 > <br>[Digital camera modes - Wikipedia](https://en.wikipedia.org/wiki/Digital_camera_modes)
             - ISO
     1. 셔터스피드 & ISO & 조리개
