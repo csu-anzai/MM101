@@ -14,8 +14,8 @@
         - Compact, Mirrorless, DSLR, Film, Cinema 등
     1. 카메라 구조
         1. [렌즈](https://youtu.be/dg3kIKphB5E)
-            - 카메라의 눈
-            - 초점거리(Focal Length, 포컬랭스)
+            - 카메라의 눈.
+            - 렌즈를 통해 카메라 안으로 빛이 들어온다.
         2. 바디
             - 촬상면(이미지 센서 또는 필름)
     1. 셔터 스피드 & ISO & 조리개
