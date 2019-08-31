@@ -40,6 +40,7 @@
             - 렌즈에서 제어
     1. 초점(Focus, 포커스) & 줌(Zoom)
         1. 포커스
+            - 포커스 링(Focus Ring)을 통해 초점을 조정.
             - [포커스 이동(Rack Focus, 랙 포커스)](https://upload.wikimedia.org/wikipedia/commons/1/14/CostaRica_Working_Rack_Focus_from_wires.webm)
         1. [줌](https://youtu.be/mRp13pRzzWQ)
     
