@@ -26,7 +26,7 @@
     
 1. [영상 기초](https://youtu.be/ZKmNUP_5TFQ)
     - 영상: 이미지(Image). 정지 사진(Still Picture).
-        > ![The_Horse_in_Motion_high_res.jpg](imgs/The_Horse_in_Motion_high_res.jpg)
+        > ![The_Horse_in_Motion_high_res_qtr.jpg](imgs/The_Horse_in_Motion_high_res_qtr.jpg)
         > <br>[출처 - Eadweard Muybridge - Wikipedia](https://en.wikipedia.org/wiki/Eadweard_Muybridge)
     - 동영상: 시간상 연속된 정지 사진들의 모음. 마치 움직이는 듯한 느낌의 착각.
         > ![The_Horse_in_Motion-anim.gif](imgs/The_Horse_in_Motion-anim.gif)
