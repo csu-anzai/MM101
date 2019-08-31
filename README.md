@@ -22,8 +22,7 @@
         - 초당 프레임 수(FPS, Frames Per Second)
         - 영화는 24fps       
 1. 탑임랩스(Time Lapse) 영상 만들기
-    - [하이퍼랩스(Hyperlapse)](https://upload.wikimedia.org/wikipedia/commons/9/98/Brisbane_Hyperlapse_2013_%28trimmed%29.ogv) = 탑임랩스 + 움직임(Movement)
-
+    - 카메라를 움직이면 더 다이나믹 하고 재미있는 [하이퍼랩스(Hyperlapse) 영상](https://upload.wikimedia.org/wikipedia/commons/9/98/Brisbane_Hyperlapse_2013_%28trimmed%29.ogv)을 만들 수 있다.
 
 ### 2주차
 
