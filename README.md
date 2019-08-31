@@ -31,6 +31,10 @@
         - 초당 프레임 수(FPS, Frames Per Second)      
 1. [탑임랩스(Time Lapse) 동영상](https://youtu.be/_Ecxt_W96x0) 만들기
     - 카메라를 움직이면 더 다이나믹 하고 재미있는 [하이퍼랩스(Hyperlapse) 동영상](https://upload.wikimedia.org/wikipedia/commons/9/98/Brisbane_Hyperlapse_2013_%28trimmed%29.ogv)을 만들 수 있다.
+    - 이미지 시퀀스(Image Sequence) 만들기
+        - XnView로 리네이밍(Renaming)
+    - DJV View로 이미지 시퀀스 재생하기
+        - [Download Page Link](http://djv.sourceforge.net/Download.html)
 
 ### 2주차
 
