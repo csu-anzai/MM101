@@ -199,6 +199,7 @@
             - Export Maya Scene(.mel)
             - Export Nuke Lens Distortion Node(.nk)
             - Export Undistort(Dewarped) Plate
+            
     - 카메라 트래킹 in Maya
         1. MEL 스크립트 불러오기(Import MEL Script)
             - 소스 스크립트(Source Script) or 드래그 앤 드롭(Drag and Drop)
@@ -214,7 +215,7 @@
         
 ### 4주차
 
-1. 오브젝트 트래킹 in 3DEqualizer
+1. 카메라 트래킹 + 오브젝트 트래킹 in 3DEqualizer
     - 3주차 프로젝트 파일(.3de) 열기
     - 오브젝트 트래킹
         1. 포인트 그룹(Point Group) 생성하기
