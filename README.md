@@ -70,7 +70,7 @@
             - 1 ÷ 1 = 1
     1. 프레임 레이트(Frame Rate)
         - 초당 프레임 수(FPS, Frames Per Second)
-        - [103,000 FPS](https://youtu.be/qQKhIK4pvYo?t=221)
+        - [103,000 FPS (한글자막)](https://youtu.be/qQKhIK4pvYo?t=221)
     1. [이미지 파일 형식(Image file formats)](https://ko.wikipedia.org/wiki/이미지_파일_형식)
         - 많이 쓰는 확장자 - jpg , png , dpx , exr 등 
     1. 이미지 시퀀스(Image Sequence) & 비디오 파일(Video File)
