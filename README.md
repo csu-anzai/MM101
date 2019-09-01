@@ -39,14 +39,22 @@
             - 조리개 값이 낮을수록 사진이 밝아짐. 같은 시간에 센서가 더 많은 양의 빛에 노출되어서.
             - 하지만 조리개 값이 낮을수록 심도가 얕아진다. 
             - 렌즈에서 제어
+    1. 초점거리(Focal Length, 포컬랭스)
+        - [렌즈의 제2주점 부터 촬상면(센서 또는 필름) 까지의 거리.](https://guzene.tistory.com/147)
+        - 표기법: (초점거리)mm. 예) 8mm, 35mm, 100mm.
+        - 초점거리가 길다 = 배율이 높다 = 화각이 좁다
+        - 초점거리가 짧다 = 배율이 낮다 = 화각이 넓다
+        - 포커스 디스턴스(Focus Distance)와 혼동하지 말 것. 카메라부터 피사체 까지의 거리.    
+    1. [줌(Zoom)](https://youtu.be/mRp13pRzzWQ)
+        - 포컬랭스를 변화 시키는 것.
+            - 줌 인(Zoom In) - 포컬랭스를 늘리는 것. 멀리 있는 물체를 확대해서 볼 수 있다.
+            - 줌 아웃(Zoom Out) - 포컬랭스를 줄이는 것. 멀리 있는 물체를 축소해서 볼 수 있다.
+        - 줌 렌즈에서만 가능. 단 렌즈는 줌 기능이 없다.
+        - 줌 링(Zoom Ring)을 통해 조정
     1. 초점(Focus, 포커스)
         - 포커스 링(Focus Ring)을 통해 초점을 조정.
         - [포커스 이동(Rack Focus, 랙 포커스)](https://upload.wikimedia.org/wikipedia/commons/1/14/CostaRica_Working_Rack_Focus_from_wires.webm)
-    1. [줌(Zoom)](https://youtu.be/mRp13pRzzWQ)
-        - 피사체를 확대
-        - 줌 렌즈에서만 가능. 단 렌즈는 줌 기능이 없다.
-        - 줌 링(Zoom Ring)을 통해 조정
-    
+        
 1. [영상 기초](https://youtu.be/ZKmNUP_5TFQ)
     - 영상: 이미지(Image). 정지 사진(Still Picture).
         > ![The_Horse_in_Motion_high_res_qtr.jpg](imgs/The_Horse_in_Motion_high_res_qtr.jpg)
