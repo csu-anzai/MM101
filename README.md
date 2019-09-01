@@ -168,8 +168,7 @@
     1. 커스텀 UI
 
 1. 카메라 트래킹 (기초)
-    - 3DEqualizer 살펴보기
-    - 카메라 트래킹
+    1. 카메라 트래킹 in 3DEqualizer
         1. 이미지 불러오기(import)
             - 레퍼런스 카메라(Reference Camera)
         1. Attribute Editor에 정보 입력하기
@@ -181,7 +180,21 @@
             - 정렬
                 - 바닥 포인트들을 XZ Plane에 정렬
             - 스케일
-                - 디스턴스 컨스트레인트(Distance Constraint)            
+                - 디스턴스 컨스트레인트(Distance Constraint)
+        1. 내보내기(Export)
+            - Export Maya Scene(.mel)
+            
+    1. 카메라 트래킹 in Maya
+        1. MEL 스크립트 불러오기(Import MEL Script)
+            - 소스 스크립트(Source Script) or 드래그 앤 드롭(Drag and Drop)
+        1. 셋 피팅
+            - 더미 모델링
+        1. 테스트
+            - 플레이블래스트(Playblast)        
+        1. CG요소 렌더링(Rendering CG Elements)
+            - 렌더 사이즈 - 원본 푸티지 사이즈(Raw Footage Size)
+            - Viewport2.0 플레이블라스트
+    1. 합성
 
 ### 3주차
 
@@ -212,6 +225,7 @@
             - Export Maya Scene(.mel)
             - Export Nuke Lens Distortion Node(.nk)
             - Export Undistort(Dewarped) Plate
+                - Overscan
             
     - 카메라 트래킹 in Maya
         1. MEL 스크립트 불러오기(Import MEL Script)
@@ -229,6 +243,10 @@
             - 아웃라이너 정리하기
             - 베이킹(Baking)
                 - 키 프레임(Key Frame)이 들어가있고 페어런트(Parent) 되어있는 오브젝트를 월드 스페이스(World Space)로 꺼내는 것.
+        1. CG요소 렌더(Render CG Elements)
+            - 렌더 사이즈 - 오버스캔 사이즈
+            
+    - 합성하기
         
 ### 4주차
 
