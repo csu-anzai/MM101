@@ -120,6 +120,7 @@
             - Matchmove Software(3DEqualizer, PFTrack, Syntheyes 등)
     - 매치무브 작업 과정
         1. 푸티지 평가 (Evaluating the Footage)
+            - 원본 푸티지(Raw Footage)
         1. 정보 적용 (Applying Information)
             - 촬영장 실측 (Set Measurements)
             - Survey Data
@@ -178,7 +179,7 @@
         1. 이미지 불러오기(import)
             - Sequence Camera
             - 파일: trackboy
-        1. Attribute Editor에 정보 입력하기
+        1. 어트리뷰트 에디터(Attribute Editor)에 정보 입력하기
             - Focal Length: ?mm (Metadata, 메타데이터)
             - Film Back: ? × ?mm
         1. 2D Point Tracking
@@ -188,14 +189,29 @@
                 - <kbd>,</kbd>,<kbd>.</kbd>: Track backward 1 frame, Track forward 1 frame
                 - <kbd>e</kbd>: Start Point & End Point
                 - <kbd>ctrl + r</kbd>: Remove Keyframe
-         1. 솔빙 & 정렬(Solving & Orienting)
-         1. 파라미터 조정(Parameter Adjustment)
-         1. 내보내기(Export)
-             - Export Maya Scene(.mel)
-             - Export Nuke Lens Distortion Node(.nk)
-             - Export Undistort(Dewarped) Plate
-         
-
+        1. 솔빙 & 정렬 & 스케일(Solving & Orienting & Scaling)
+            - 정렬
+                - 바닥 포인트들을 XZ Plane에 정렬
+            - 스케일
+                - 디스턴스 컨스트레인트(Distance Constraint)
+        1. 파라미터 조정(Parameter Adjustment)
+        1. 내보내기(Export)
+            - Export Maya Scene(.mel)
+            - Export Nuke Lens Distortion Node(.nk)
+            - Export Undistort(Dewarped) Plate
+    - 카메라 트래킹 in Maya
+        1. MEL 스크립트 불러오기(Import MEL Script)
+            - 소스 스크립트(Source Script) or 드래그 앤 드롭(Drag and Drop)
+        1. 오버스캔 보정(Overscan Compensation)
+        1. 정렬 & 스케일
+        1. 셋 피팅
+            - 바닥 모델링
+            - 벽 모델링
+            - 사다리 모델링
+                - 삼각 측량(Triangulation, 트라이앵귤레이션)
+        1. 테스트
+            - 플레이블래스트(Playblast)
+        
 ### 4주차
 
 1. 오브젝트 트래킹 in 3DEqualizer
@@ -203,7 +219,12 @@
     - 오브젝트 트래킹
         1. 포인트 그룹(Point Group) 생성하기
         1. 2D Point Tracking
-        
+        1. 솔빙 & 스케일
+        1. 파라미터 조정(Parameter Adjustment)
+        1. 내보내기(Export)
+            - Export Maya Scene(.mel)
+            - Export Nuke Lens Distortion Node(.nk)
+            - Export Undistort(Dewarped) Plate
 
 
 
