@@ -162,12 +162,18 @@
 1. 카메라 트래킹 (기초)
     - 3DEqualizer 살펴보기
     - 카메라 트래킹
-        - 이미지 불러오기(import)
-            - Reference Camera
-        - Attribute Editor에 정보 입력하기
+        1. 이미지 불러오기(import)
+            - 레퍼런스 카메라(Reference Camera)
+        1. Attribute Editor에 정보 입력하기
             - Focal Length: 24mm
             - Film Back: 36 × 24mm
-        - 2D Point Tracking
+        1. 2D Point Tracking
+            - 디폴트 세팅으로 솔브를 하기 위해 프레임당 최소 6개의 2D 포인트가 필요.
+        1. 솔빙 & 정렬 & 스케일(Solving & Orienting & Scaling)
+            - 정렬
+                - 바닥 포인트들을 XZ Plane에 정렬
+            - 스케일
+                - 디스턴스 컨스트레인트(Distance Constraint)            
 
 ### 3주차
 
@@ -177,7 +183,7 @@
 1. 카메라 트래킹 (심화)
     - 카메라 트래킹 in 3DEqualizer
         1. 이미지 불러오기(import)
-            - Sequence Camera
+            - 시퀀스 카메라(Sequence Camera)
             - 파일: trackboy
         1. 어트리뷰트 에디터(Attribute Editor)에 정보 입력하기
             - Focal Length: ?mm (Metadata, 메타데이터)
@@ -190,10 +196,6 @@
                 - <kbd>e</kbd>: Start Point & End Point
                 - <kbd>ctrl + r</kbd>: Remove Keyframe
         1. 솔빙 & 정렬 & 스케일(Solving & Orienting & Scaling)
-            - 정렬
-                - 바닥 포인트들을 XZ Plane에 정렬
-            - 스케일
-                - 디스턴스 컨스트레인트(Distance Constraint)
         1. 파라미터 조정(Parameter Adjustment)
         1. 내보내기(Export)
             - Export Maya Scene(.mel)
