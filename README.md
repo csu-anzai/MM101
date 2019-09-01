@@ -193,6 +193,8 @@
         1. 이미지 불러오기(import)
             - 시퀀스 카메라(Sequence Camera)
             - 파일: trackboy
+                > ![trackboy_qtr.0000.jpg](imgs/trackboy_qtr.0000.jpg)
+                > <br>[Science D Vision](https://www.3dequalizer.com)
         1. 어트리뷰트 에디터(Attribute Editor)에 정보 입력하기
             - 메타데이터(Metadata) 확인하기
             - Focal Length: ?mm
