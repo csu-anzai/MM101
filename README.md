@@ -34,6 +34,9 @@
         1. [렌즈](https://youtu.be/dg3kIKphB5E)
             - 카메라의 눈.
             - 렌즈를 통해 카메라 안으로 빛이 들어온다.
+            - X군 X매. 렌즈에 사용된 개별 유리의 갯수를 매, 매의 묶음을 군이라 한다.
+                > ![rf50mm_diagram_r_half.png](imgs/rf50mm_diagram_r_half.png)
+                > <br>[eos digital - Canon Global](https://global.canon/en/imaging/)
         2. 바디
             - 이미지 센서 또는 필름에 둥근 상(Image Circle, 이미지 서클)이 맺힌다.
                 > ![Image_circle_qtr.jpg](imgs/Image_circle_qtr.jpg)
