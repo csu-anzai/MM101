@@ -17,7 +17,7 @@
             - 카메라의 눈.
             - 렌즈를 통해 카메라 안으로 빛이 들어온다.
         2. 바디
-            - 렌즈를 통해 들어온 빛은 이미지 센서 또는 필름에 맺힌다.
+            - 렌즈를 통해 들어온 빛은 이미지 센서 또는 필름에 둥근 상(Image Circle, 이미지 서클)을 맺힌다.
                 > ![Image_circle_qtr.jpg](imgs/Image_circle_qtr.jpg)
                 > <br>[Image circle - Wikipedia](https://en.wikipedia.org/wiki/Image_circle)
             - 이미지 센서는 빛을 디지털 신호로 바꿔서 이미지 파일을 만들어 낸다.
