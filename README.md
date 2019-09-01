@@ -1,11 +1,3 @@
-## 기본정보
-- 교육장소: CG5
-- 교육대상: 매치무브 파트 취업준비 중인 학생(직장인 X)
-- 교육기간: 5주 (주 1회, 토요일, 3~4시간)
-- 준비물: Autodesk Maya, 3DEqualizer
-
-## 내용
-
 ### 1주차
 
 1. [카메라 기초](https://www.youtube.com/watch?v=xgx8jMrGARg)
