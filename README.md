@@ -96,7 +96,7 @@
      
 1. [하이퍼랩스(Hyperlapse) 동영상](https://upload.wikimedia.org/wikipedia/commons/9/98/Brisbane_Hyperlapse_2013_%28trimmed%29.ogv) 만들기
     - 하이퍼랩스란? [타임랩스(Time Lapse) 동영상](https://youtu.be/_Ecxt_W96x0) + 움직임(Movement)
-    - 30fps 5초 짜리 영상 만들 것. 사진 150장(30장 × 5초).
+    - 5초(30fps) 영상 만들 것. 사진 150장(30장 × 5초).
     - 촬영한 사진들로 이미지 시퀀스(Image Sequence) 만들기
         - XnViewMP로 리네이밍(Renaming)
         - [XnViewMP Download Page Link](https://www.xnview.com/en/xnviewmp/)
