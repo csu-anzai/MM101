@@ -45,8 +45,8 @@
             - 이미지 센서는 빛을 디지털 신호로 바꿔서 이미지 파일을 만들어 낸다.
     1. 셔터 스피드 & ISO & 조리개
         > ![Cheatcard_85x55_300dpi_RGB_web_en_CC-BY-ND.jpg](imgs/Cheatcard_85x55_300dpi_RGB_web_en_CC-BY-ND.jpg)
-        1. 셔터 스피드(Shutter Speed)
-            - 필름 또는 센서가 빛에 노출 되는 시간을 제어
+        1. [셔터 스피드(Shutter Speed)](https://support.d-imaging.sony.co.jp/support/ilc/learn/ko/knowledge/09.html)
+            - 이미지 센서 앞쪽의 셔터가 열려 있는 시간
                 - 1": 필름 또는 센서가 1초 동안 빛에 노출 됨
                 - 1/100: 필름 또는 센서가 100 분의 1초 동안 빛에 노출 됨
                 - 1/1000: 필름 또는 센서가 1000 분의 1초 동안 빛에 노출 됨
@@ -58,7 +58,7 @@
             - ISO가 높을수록 사진이 밝아짐. 센서가 빛에 더 민감하게 반응해서.
             - 하지만 ISO가 높을수록 사진 사진에 노이즈(Noise)가 많이 생김.
             - 바디에서 제어
-        1. 조리개(Aperture, 애퍼처)
+        1. [조리개(Aperture, 애퍼처)](https://support.d-imaging.sony.co.jp/support/ilc/learn/ko/knowledge/06.html)
             > ![aperture_compare.png](imgs/aperture_compare.png)
             > <br>[Sony Global - 디지털 이미징](https://support.d-imaging.sony.co.jp/support/ilc/learn/ko/knowledge/06.html)
             - 렌즈를 통해 들어오는 광량을 조절.
