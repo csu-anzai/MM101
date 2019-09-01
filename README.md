@@ -18,6 +18,7 @@
             - 렌즈를 통해 카메라 안으로 빛이 들어온다.
         2. 바디
             - 렌즈를 통해 들어온 빛은 이미지 센서 또는 필름에 맺힌다.
+            - 이미지 센서는 빛을 디지털 신호로 바꿔서 이미지 파일을 만들어 낸다.
     1. 셔터 스피드 & ISO & 조리개
         > ![Cheatcard_85x55_300dpi_RGB_web_en_CC-BY-ND.jpg](imgs/Cheatcard_85x55_300dpi_RGB_web_en_CC-BY-ND.jpg)
         1. 셔터 스피드(Shutter Speed)
