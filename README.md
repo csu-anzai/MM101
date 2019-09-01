@@ -34,7 +34,7 @@
         1. [렌즈](https://youtu.be/dg3kIKphB5E)
             - 카메라의 눈.
             - 렌즈를 통해 카메라 안으로 빛이 들어온다.
-            - X군 X매. 렌즈에 사용된 개별 유리의 갯수를 매, 매의 묶음을 군이라 한다.
+            - ~군 ~매. 렌즈에 사용된 개별 유리의 갯수를 매, 매의 묶음을 군이라 한다.
                 > ![rf50mm_diagram_r_half.png](imgs/rf50mm_diagram_r_half.png)
                 > <br>RF50mm F1.2 L USM - 9군 15매
                 > <br>[eos digital - Canon Global](https://global.canon/en/imaging/l-lens/line-up/rf50mm_usm.html)
@@ -54,12 +54,14 @@
             - 하지만 셔터 스피드가 느릴수록 잔상(Motion Blur, 모션블러)이 생김.
             - 바디에서 제어
         1. ISO
-            - 센서의 빛에 대한 민감도 제어 (필름은 ISO가 고정)
+            - 렌즈를 통해 들어오는 광량을 증폭시키는 정도 (필름은 ISO가 고정)
             - ISO가 높을수록 사진이 밝아짐. 센서가 빛에 더 민감하게 반응해서.
             - 하지만 ISO가 높을수록 사진 사진에 노이즈(Noise)가 많이 생김.
             - 바디에서 제어
         1. 조리개(Aperture, 애퍼처)
-            - 렌즈를 통해 들어오는 빛의 양을 조절하는 구멍.
+            > ![aperture_compare.png](imgs/aperture_compare.png)
+            > <br>[Sony Global - 디지털 이미징](https://support.d-imaging.sony.co.jp/support/ilc/learn/ko/knowledge/06.html)
+            - 렌즈를 통해 들어오는 광량을 조절.
             - 조리개 값이 낮을수록 사진이 밝아짐. 같은 시간에 센서가 더 많은 양의 빛에 노출되어서.
             - 하지만 조리개 값이 낮을수록 심도가 얕아진다. 
             - 렌즈에서 제어
