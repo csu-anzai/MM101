@@ -226,7 +226,7 @@
     - 렌즈 디스토션(Lens Distortion)
 
 1. 카메라 트래킹 (심화)
-    - 카메라 트래킹 in 3DEqualizer
+    1. 카메라 트래킹 in 3DEqualizer
         1. 이미지 불러오기(import)
             - 시퀀스 카메라(Sequence Camera)
             - 파일: trackboy
@@ -234,7 +234,8 @@
                 > <br>[Science D Vision](https://www.3dequalizer.com)
         1. 어트리뷰트 에디터(Attribute Editor)에 정보 입력하기
             - 메타데이터(Metadata) 확인하기
-            - Focal Length: ?mm
+            - Camera: Canon EOS 40D
+            - Focal Length: 24mm
             - Film Back: ? × ?mm
         1. 2D Point Tracking
             - Manual Tracking Controls(F2)
@@ -251,7 +252,7 @@
             - Export Undistort(Dewarped) Plate
                 - Overscan
             
-    - 카메라 트래킹 in Maya
+    1. 카메라 트래킹 in Maya
         1. MEL 스크립트 불러오기(Import MEL Script)
             - 소스 스크립트(Source Script) or 드래그 앤 드롭(Drag and Drop)
         1. 오버스캔 보정(Overscan Compensation)
@@ -270,7 +271,7 @@
         1. CG요소 렌더(Render CG Elements)
             - 렌더 사이즈 - 오버스캔 사이즈
             
-    - 합성하기
+    1. 합성하기
         
 ### 4주차
 
@@ -278,9 +279,9 @@
     - 오브젝트 트래킹을 단독으로 진행하면 안되는 이유.
     
 1. 카메라 트래킹 + 오브젝트 트래킹 in 3DEqualizer     
-    - 카메라 트래킹
+    1. 카메라 트래킹
         - 3주차 프로젝트 파일(.3de) 열기
-    - 오브젝트 트래킹
+    1. 오브젝트 트래킹
         1. 포인트 그룹(Point Group) 이해
             - 카메라 트래킹 - 카메라 포인트 그룹
             - 오브젝트 트래킹 - 오브젝트 포인트 그룹
@@ -292,7 +293,7 @@
             - Export Nuke Lens Distortion Node(.nk)
             - Export Undistort(Dewarped) Plate
 
-    - 카메라 트래킹 + 오브젝트 트래킹 in Maya
+    1. 카메라 트래킹 + 오브젝트 트래킹 in Maya
         1. MEL 스크립트 불러오기(Import MEL Script)
             - 소스 스크립트(Source Script) or 드래그 앤 드롭(Drag and Drop)
         1. 오버스캔 보정(Overscan Compensation)
@@ -308,3 +309,7 @@
         1. 딜리버
             - 아웃라이너 정리하기
             - 베이킹(Baking)
+        1. CG요소 렌더(Render CG Elements)
+            - 렌더 사이즈 - 오버스캔 사이즈
+            
+    1. 합성하기
