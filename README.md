@@ -124,8 +124,6 @@
         - [DJV Imaging Download Page Link](http://djv.sourceforge.net/Download.html)
     - 'DJV Imaging'으로 비디오 파일 만들기
         - File >> Export Seqeunce
-1. 과제
-    - 하이퍼랩스 동영상 Youtube에 업로드 하기
 
 ### 2주차
 
