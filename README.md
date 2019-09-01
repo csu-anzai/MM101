@@ -43,6 +43,8 @@
             - 포커스 링(Focus Ring)을 통해 초점을 조정.
             - [포커스 이동(Rack Focus, 랙 포커스)](https://upload.wikimedia.org/wikipedia/commons/1/14/CostaRica_Working_Rack_Focus_from_wires.webm)
         1. [줌](https://youtu.be/mRp13pRzzWQ)
+            - 줌 인(Zoom In)
+            - 줌 아웃(Zoom Out)
     
 1. [영상 기초](https://youtu.be/ZKmNUP_5TFQ)
     - 영상: 이미지(Image). 정지 사진(Still Picture).
@@ -150,8 +152,10 @@
             - 사람은 2D 비디오만 봐도 카메라의 궤적과 3D 공간을 어느정도 유추 할 수 있다. 시차를 이해하고 있기 때문.
 
 1. 3DEqualizer 살펴보기
-    1. Windows
-    1. Controls
+    1. 윈도우(Windows)
+    1. 컨트롤(Controls)
+    1. 설정(Preference)
+    1. 커스텀 UI
 
 1. 카메라 트래킹 (기초)
     - 3DEqualizer 살펴보기
@@ -180,7 +184,7 @@
             - Manual Tracking Controls(F2)
             - Basic Hotkeys
                 - <kbd>t</kbd>: Track all frames
-                - <kbd>,</kbd>,<kbd>.</kbd>: Track backward 1 frame, Track foreward 1 frame
+                - <kbd>,</kbd>,<kbd>.</kbd>: Track backward 1 frame, Track forward 1 frame
                 - <kbd>e</kbd>: Start Point & End Point
                 - <kbd>ctrl + r</kbd>: Remove Keyframe
          1. 솔빙 & 정렬(Solving & Orienting)
