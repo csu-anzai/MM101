@@ -68,9 +68,11 @@
         - 이미지를 구성하고 있는 최소 단위
             > ![Pixel-example.png](imgs/Pixel-example.png)
             > <br>[Pixel - Wikipedia](https://en.wikipedia.org/wiki/Pixel)
+    1. 이미지 사이즈
+        - 표기법: <가로줄 픽셀개수> × <새로줄 픽셀개수>
+        - 6000 × 4000 , 1920 × 1080
     1. 해상도
         - 이미지의 픽셀개수
-        - 표기법: <가로줄 픽셀개수> × <새로줄 픽셀개수>
         - 1920 × 1080 = 2,073,600
     1. 종횡비(Aspect Ratio)
         - <가로> ÷ <새로>
