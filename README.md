@@ -40,12 +40,12 @@
             - 하지만 조리개 값이 낮을수록 심도가 얕아진다. 
             - 렌즈에서 제어
     1. 초점(Focus, 포커스)
-        1. 포커스
-            - 포커스 링(Focus Ring)을 통해 초점을 조정.
-            - [포커스 이동(Rack Focus, 랙 포커스)](https://upload.wikimedia.org/wikipedia/commons/1/14/CostaRica_Working_Rack_Focus_from_wires.webm)
+        - 포커스 링(Focus Ring)을 통해 초점을 조정.
+        - [포커스 이동(Rack Focus, 랙 포커스)](https://upload.wikimedia.org/wikipedia/commons/1/14/CostaRica_Working_Rack_Focus_from_wires.webm)
     1. [줌(Zoom)](https://youtu.be/mRp13pRzzWQ)
-        - 줌 인(Zoom In)
-        - 줌 아웃(Zoom Out)
+        - 피사체를 확대
+        - 줌 렌즈에서만 가능. 단 렌즈는 줌 기능이 없다.
+        - 줌 링(Zoom Ring)을 통해 조정
     
 1. [영상 기초](https://youtu.be/ZKmNUP_5TFQ)
     - 영상: 이미지(Image). 정지 사진(Still Picture).
