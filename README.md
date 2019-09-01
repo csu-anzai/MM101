@@ -189,7 +189,8 @@
             - 시퀀스 카메라(Sequence Camera)
             - 파일: trackboy
         1. 어트리뷰트 에디터(Attribute Editor)에 정보 입력하기
-            - Focal Length: ?mm (Metadata, 메타데이터)
+            - 메타데이터(Metadata) 확인하기
+            - Focal Length: ?mm
             - Film Back: ? × ?mm
         1. 2D Point Tracking
             - Manual Tracking Controls(F2)
