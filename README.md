@@ -167,7 +167,7 @@
         - Attribute Editor에 정보 입력하기
             - Focal Length: 24mm
             - Film Back: 36 × 24mm
-        - 2D Point
+        - 2D Point Tracking
 
 ### 3주차
 
@@ -212,13 +212,22 @@
                 - 삼각 측량(Triangulation, 트라이앵귤레이션)
         1. 테스트
             - 플레이블래스트(Playblast)
+        1. 딜리버
+            - 아웃라이너 정리하기
+            - 베이킹(Baking)
+                - 키 프레임(Key Frame)이 들어가있고 페어런트(Parent) 되어있는 오브젝트를 월드 스페이스(World Space)로 꺼내는 것.
         
 ### 4주차
 
 1. 카메라 트래킹 + 오브젝트 트래킹 in 3DEqualizer
-    - 3주차 프로젝트 파일(.3de) 열기
+    - 오브젝트 트래킹 이해
+        - 오브젝트 트래킹을 단독으로 진행하면 안되는 이유.
+    - 카메라 트래킹
+        - 3주차 프로젝트 파일(.3de) 열기
     - 오브젝트 트래킹
-        1. 포인트 그룹(Point Group) 생성하기
+        1. 포인트 그룹(Point Group) 이해
+            - 카메라 트래킹 - 카메라 포인트 그룹
+            - 오브젝트 트래킹 - 오브젝트 포인트 그룹
         1. 2D Point Tracking
         1. 솔빙 & 스케일
         1. 파라미터 조정(Parameter Adjustment)
@@ -227,8 +236,22 @@
             - Export Nuke Lens Distortion Node(.nk)
             - Export Undistort(Dewarped) Plate
 
-
-
+    - 카메라 트래킹 + 오브젝트 트래킹 in Maya
+        1. MEL 스크립트 불러오기(Import MEL Script)
+            - 소스 스크립트(Source Script) or 드래그 앤 드롭(Drag and Drop)
+        1. 오버스캔 보정(Overscan Compensation)
+        1. 정렬 & 스케일
+        1. 셋 피팅
+            - 바닥 모델링
+            - 벽 모델링
+            - 사다리 모델링
+                - 삼각 측량(Triangulation, 트라이앵귤레이션)
+            - 박스 
+        1. 테스트
+            - 플레이블래스트(Playblast)
+        1. 딜리버
+            - 아웃라이너 정리하기
+            - 베이킹(Baking)
 
 
 
