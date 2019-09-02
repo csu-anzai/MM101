@@ -77,7 +77,8 @@
         - 단위: mm(밀리미터). ex) 8mm, 35mm, 100mm.
         - 초점거리가 길다 = 배율이 높다 = 화각이 좁다
         - 초점거리가 짧다 = 배율이 낮다 = 화각이 넓다
-        - 포커스 디스턴스(Focus Distance)와 혼동하지 말 것. 카메라부터 피사체 까지의 거리.    
+        - 포커스 디스턴스(Focus Distance)와 혼동하지 말 것. 카메라부터 피사체 까지의 거리.
+        - [포컬랭스 시뮬레이션](https://imaging.nikon.com/lineup/lens/simulator/)
     1. [줌(Zoom)](https://youtu.be/mRp13pRzzWQ)
         - 포컬랭스를 변화 시키는 것.
             - 줌 인(Zoom In) - 포컬랭스를 늘리는 것. ex) 24mm >> 75mm
