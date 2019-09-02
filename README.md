@@ -118,7 +118,7 @@
         - 많이 쓰는 확장자 - jpg , png , dpx , exr 등 
     1. 이미지 시퀀스(Image Sequence) & 비디오 파일(Video File)
         - 이미지 시퀀스
-            - 동영상을
+            - 낮장으로 이루어진 연속적인 이름을 가진 이미지 파일
             - <네임(Name)>.<패딩(Padding)>.<확장자(Extention)>
             - my_video.0001.jpg , my_video.0002.jpg , my_video.0003.jpg ...
         - 비디오 파일
