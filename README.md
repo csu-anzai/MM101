@@ -29,7 +29,13 @@
 1. [카메라 기초](https://www.youtube.com/watch?v=xgx8jMrGARg)
     1. [역사](https://youtu.be/-Y4YZlEQafs)
     1. 카메라 종류
-        - DSLR, 미러리스(Mirrorless), 컴팩트(Compact), 필름(Film), 시네마(Cinema) 등
+        - DSLR
+        - 미러리스(Mirrorless)
+        - 컴팩트(Compact)
+        - 필름(Film)
+        - 시네마(Cinema)
+            > ![alexa-sxt-w-introduction-image-data_cropped.jpg](alexa-sxt-w-introduction-image-data_cropped.jpg)
+            > <br>[ALEXA SXT W - Arri](https://www.arri.com/en/camera-systems/cameras/alexa-sxt-w)
     1. 카메라 구조
         1. [렌즈](https://youtu.be/dg3kIKphB5E)
             - 카메라의 눈.
