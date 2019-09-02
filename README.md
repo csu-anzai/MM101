@@ -34,7 +34,7 @@
         - 컴팩트(Compact)
         - 필름(Film)
         - 시네마(Cinema)
-            > ![alexa-sxt-w-introduction-image-data_cropped.jpg](alexa-sxt-w-introduction-image-data_cropped.jpg)
+            > ![alexa-sxt-w-introduction-image-data_cropped.jpg](imgs/alexa-sxt-w-introduction-image-data_cropped.jpg)
             > <br>[ALEXA SXT W - Arri](https://www.arri.com/en/camera-systems/cameras/alexa-sxt-w)
     1. 카메라 구조
         1. [렌즈](https://youtu.be/dg3kIKphB5E)
