@@ -168,7 +168,8 @@
             - Matchmove Software(3DEqualizer, PFTrack, Syntheyes 등)
     - 매치무브 작업 과정
         1. 푸티지 평가 (Evaluating the Footage)
-            - 원본 푸티지(Raw Footage)
+            - 원본 푸티지(Raw Footage)?
+            - 매치무브 소프트웨어를 사용할까? 손으로 잡을까?
         1. 정보 적용 (Applying Information)
             - 촬영장 실측 (Set Measurements)
             - Survey Data
