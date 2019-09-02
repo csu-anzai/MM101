@@ -86,6 +86,7 @@
     1. 초점(Focus, 포커스)
         - 포커스 링(Focus Ring)을 통해 초점을 조정.
         - [포커스 이동(Rack Focus, 랙 포커스)](https://youtu.be/lqE_CG9lnBs)
+        - [아웃포커스(Defocus)](https://support.d-imaging.sony.co.jp/support/ilc/learn/ko/knowledge/03.html)
         
 1. [영상 기초](https://youtu.be/ZKmNUP_5TFQ)
     - 영상: 이미지(Image). 정지 사진(Still Picture).
