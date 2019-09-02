@@ -71,6 +71,7 @@
             - 렌즈를 통해 들어오는 광량을 조절.
             - 조리개 값이 낮을수록 사진이 밝아짐. 같은 시간에 센서가 더 많은 양의 빛에 노출되어서.
             - 하지만 조리개 값이 낮을수록 심도가 얕아진다. 
+                > ![](https://support.d-imaging.sony.co.jp/support/ilc/learn/en/translation_img/learnmore/knowledge/03/knowledge3_2_1_modal.jpg?1567433886763)
             - 렌즈에서 제어
     1. [초점거리(Focal Length, 포컬랭스)](https://support.d-imaging.sony.co.jp/support/ilc/learn/ko/knowledge/01.html)
         - [렌즈의 제2주점 부터 촬상면(센서 또는 필름) 까지의 거리.](https://guzene.tistory.com/147)
@@ -89,7 +90,6 @@
         - 포커스 링(Focus Ring)을 통해 초점을 조정.
         - [포커스 이동(Rack Focus, 랙 포커스)](https://youtu.be/lqE_CG9lnBs)
         - [아웃포커스(Defocus)](https://support.d-imaging.sony.co.jp/support/ilc/learn/ko/knowledge/03.html)
-        
 1. [영상 기초](https://youtu.be/ZKmNUP_5TFQ)
     - 영상: 이미지(Image). 정지 사진(Still Picture).
         > ![The_Horse_in_Motion_high_res_qtr.jpg](imgs/The_Horse_in_Motion_high_res_qtr.jpg)
