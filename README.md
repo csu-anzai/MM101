@@ -366,4 +366,4 @@
 
 ### Reference
 
-- [1] [네이버 지식백과] DOF [Depth of Field] - 피사계 심도(被寫界 深度) (지형 공간정보체계 용어사전, 2016. 1. 3., 이강원, 손호웅)
+- [[1] [네이버 지식백과] DOF [Depth of Field] - 피사계 심도(被寫界 深度) (지형 공간정보체계 용어사전, 2016. 1. 3., 이강원, 손호웅)](https://terms.naver.com/entry.nhn?docId=3475654&cid=58439&categoryId=58439)
