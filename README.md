@@ -81,8 +81,8 @@
             - 렌즈에서 제어
             
     1. 초점(Focus, 포커스) & 피사계 심도(Depth of Field, 뎁스 오브 필드)
-        - 초점면이란? 선명한 상이 형성되는 지점.
-        - 포커스 디스턴스(Focus Distance)는 카메라부터 초점면 까지의 거리.
+        - 초점이란? 선명한 상이 형성되는 지점.
+        - 포커스 디스턴스(Focus Distance)는 카메라부터 초점면(Plane of Focus)까지의 거리.
             > ![1920px-FocusDemonstration-BambooRooftop_half.jpg](imgs/1920px-FocusDemonstration-BambooRooftop_half.jpg)
             > <br>[Focus (optics) - Wikipedia](https://en.wikipedia.org/wiki/Focus_(optics))
             > <br>(좌)초점면이 앞쪽에 있는 모습. (우)초점면이 뒤쪽에 있는 모습.
