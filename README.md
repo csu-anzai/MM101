@@ -83,12 +83,12 @@
     1. 초점(Focus, 포커스) & 피사계 심도(Depth of Field, 뎁스 오브 필드)
         - 포커스 링(Focus Ring)을 통해 초점을 조정.
         - [포커스 이동(Rack Focus, 랙 포커스)](https://youtu.be/lqE_CG9lnBs)
-        - 섈로 포커스(Shallow Focus)
+        - 편심 초점(Shallow Focus, 섈로 포커스)
             - 한 층은 선명한 초점이 형성되나 그 배경과 주변은 뿌옇게 탈초점 상태로 만드는 촬영 기법
             - 심도가 얕다(Shallow)
             > ![Athene_cunicularia_20110524_02_qtr.jpg](imgs/Athene_cunicularia_20110524_02_qtr.jpg)
             > <br>[Shallow focus - Wikipedia](https://en.wikipedia.org/wiki/Shallow_focus)          
-        - 딥 포커스(Deep Focus)
+        - 전심 초점(Deep Focus, 딥 포커스)
             - 클로즈업에서 무한대에 이르기까지 모든 곳의 초점을 분명하게 맞추는 촬영 기법
             - 심도가 깊다(Deep)
             > ![deep_focus_1k.jpg](imgs/deep_focus_1k.jpg)
