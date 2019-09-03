@@ -83,8 +83,10 @@
     1. 초점(Focus, 포커스) & 피사계 심도(Depth of Field, 뎁스 오브 필드)
         - 포커스 링(Focus Ring)을 통해 초점을 조정.
         - [포커스 이동(Rack Focus, 랙 포커스)](https://youtu.be/lqE_CG9lnBs)
-        - [아웃포커스(Defocus)](https://support.d-imaging.sony.co.jp/support/ilc/learn/ko/knowledge/03.html)            
+        - 섈로 포커스(Shallow Focus)
+            
         - 딥 포커스(Deep Focus)
+            - 클로즈업에서 무한대에 이르기까지 모든 곳의 초점을 분명하게 맞출 수 있는 촬영 기법
             > ![deep_focus_1k.jpg](imgs/deep_focus_1k.jpg)
             > <br>[Venus Optics Laowa](https://www.flickr.com/photos/137268551@N02/28005366633/in/album-72157669943654560/)
             
