@@ -28,7 +28,7 @@
 
 - 교육전에 한번씩 보고 오세요 :)
     - [한 눈에 쏙, 렌즈 이야기 (카메라의 역사) - 빠르크의 3분 강좌](https://youtu.be/-Y4YZlEQafs)
-    - [꾸러기 탐구생활-핀홀카메라(111회) 01](https://youtu.be/ZHAm0dMkoug) , [꾸러기 탐구생활-핀홀카메라(111회) 02](https://youtu.be/bUHdoCdTioI)
+    - [꾸러기 탐구생활-핀홀카메라(111회) 상](https://youtu.be/ZHAm0dMkoug) , [꾸러기 탐구생활-핀홀카메라(111회) ](https://youtu.be/bUHdoCdTioI) - SBS Culture
     - [DSLR, 미러리스 카메라 조작. 이 영상 하나로 끝내버리기 - 비됴클래스](https://youtu.be/xgx8jMrGARg)
 
 1. 카메라 기초
