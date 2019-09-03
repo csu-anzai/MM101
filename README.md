@@ -84,7 +84,8 @@
         - 포커스 링(Focus Ring)을 통해 초점을 조정.
         - [포커스 이동(Rack Focus, 랙 포커스)](https://youtu.be/lqE_CG9lnBs)
         - 섈로 포커스(Shallow Focus)
-            
+            > ![Athene_cunicularia_20110524_02_qtr.jpg](imgs/Athene_cunicularia_20110524_02_qtr.jpg)
+            > <br>[Shallow focus - Wikipedia](https://en.wikipedia.org/wiki/Shallow_focus)          
         - 딥 포커스(Deep Focus)
             - 클로즈업에서 무한대에 이르기까지 모든 곳의 초점을 분명하게 맞출 수 있는 촬영 기법
             > ![deep_focus_1k.jpg](imgs/deep_focus_1k.jpg)
