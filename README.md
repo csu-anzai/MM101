@@ -87,12 +87,16 @@
             - 피사체의 초점은 선명하지만 주위의 대상은 흐리게 만드는 촬영 기법
             - 심도가 얕다(Shallow)
             > ![Athene_cunicularia_20110524_02_qtr.jpg](imgs/Athene_cunicularia_20110524_02_qtr.jpg)
-            > <br>[Shallow focus - Wikipedia](https://en.wikipedia.org/wiki/Shallow_focus)          
+            > <br>[Shallow focus - Wikipedia](https://en.wikipedia.org/wiki/Shallow_focus)
+            > <br>![DoF_shallow.png](imgs/DoF_shallow.png)
+            > <br>[Pixinfocus](https://www.pixinfocus.com/the-ultimate-beginners-guide-to-landscape-photography/)
         - 전심 초점(Deep Focus, 딥 포커스)
             - 클로즈업에서 무한대에 이르기까지 모든 곳의 초점을 분명하게 맞추는 촬영 기법
             - 심도가 깊다(Deep)
             > ![deep_focus_1k.jpg](imgs/deep_focus_1k.jpg)
             > <br>[Venus Optics Laowa](https://www.flickr.com/photos/137268551@N02/28005366633/in/album-72157669943654560/)
+            > <br>![DoF_deep.png](imgs/DoF_deep.png)
+            > <br>[Pixinfocus](https://www.pixinfocus.com/the-ultimate-beginners-guide-to-landscape-photography/)  
             
     1. [초점거리(Focal Length, 포컬랭스)](https://support.d-imaging.sony.co.jp/support/ilc/learn/ko/knowledge/01.html)
         - [렌즈의 제2주점 부터 촬상면(센서 또는 필름) 까지의 거리.](https://guzene.tistory.com/147)
