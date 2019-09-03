@@ -84,7 +84,7 @@
         - 포커스 링(Focus Ring)을 통해 초점을 조정.
         - [포커스 이동(Rack Focus, 랙 포커스)](https://youtu.be/lqE_CG9lnBs)
         - 편심 초점(Shallow Focus, 섈로 포커스)
-            - 한 층은 선명한 초점이 형성되나 그 배경과 주변은 뿌옇게 탈초점 상태로 만드는 촬영 기법
+            - 피사체의 초점은 선명하지만 주위의 대상은 흐리게 만드는 촬영 기법
             - 심도가 얕다(Shallow)
             > ![Athene_cunicularia_20110524_02_qtr.jpg](imgs/Athene_cunicularia_20110524_02_qtr.jpg)
             > <br>[Shallow focus - Wikipedia](https://en.wikipedia.org/wiki/Shallow_focus)          
