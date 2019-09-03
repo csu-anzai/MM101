@@ -82,10 +82,11 @@
             
     1. 초점(Focus, 포커스) & 피사계 심도(Depth of Field, 뎁스 오브 필드)
         - 초점이란? 선명한 상이 형성되는 지점.
-        - 포커스 디스턴스(Focus Distance)는 카메라부터 초점면(Plane of Focus)까지의 거리.
+        - 사진 촬영을 할 때, 렌즈는 수많은 평면 중에서 한 번에 하나의 평면에만 초점을 맞출수 있는데, 이를 임계 초점면은(Plane of Critical Focus)이라고 한다.
+        - 포커스 디스턴스(Focus Distance)는 카메라부터 임계 초점면까지의 거리.
             > ![1920px-FocusDemonstration-BambooRooftop_half.jpg](imgs/1920px-FocusDemonstration-BambooRooftop_half.jpg)
             > <br>[Focus (optics) - Wikipedia](https://en.wikipedia.org/wiki/Focus_(optics))
-            > <br>(좌)초점면이 앞쪽에 있는 모습. (우)초점면이 뒤쪽에 있는 모습.
+            > <br>(좌)초점이 앞쪽에 있는 모습. (우)초점이 뒤쪽에 있는 모습.
         - 렌즈에 있는 포커스 링(Focus Ring)을 통해 포커스 디스턴스(Focus Distance)를 조정 한다.
         - [포커스 이동(Rack Focus, 랙 포커스)](https://youtu.be/lqE_CG9lnBs)
         - 피사계 심도는 사진술에서 한 사진의 초점이 맞은 것으로 인식되는 범위이다. 렌즈의 초점은 단 하나의 면에 정해지게 되어 있으나 실제 사진에서는 초점면을 중심으로 서서히 흐려지는 현상이 나타나는데, 이때 충분히 초점이 맞은 것으로 인식되는 범위의 한계를 피사계 심도라 한다. 심도는 초점이 맞게 찍히는 가장 가까운 거리에서 가장 먼 거리 사이의 거리를 말한다. 이 초점이 맞게 찍힌 거리가 긴 것을 ‘심도가 깊다’고 하고, 초점이 맞는 거리가 짧은 것을 ‘심도가 얕다’고 한다.[1]
