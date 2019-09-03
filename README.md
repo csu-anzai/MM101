@@ -21,7 +21,7 @@
 - 4주차(2019.10.26 토, 13:00시 시작, 최대 5시간)
     1. 오브젝트 트래킹 이해
     1. 카메라 트래킹 + 오브젝트 트래킹
-    
+
 ## 상세
 
 ### 1주차
@@ -120,6 +120,7 @@
         - [103,000 FPS](https://youtu.be/qQKhIK4pvYo?t=221)
     1. [이미지 파일 형식(Image file formats)](https://ko.wikipedia.org/wiki/이미지_파일_형식)
         - 많이 쓰는 확장자 - jpg , png , dpx , exr 등 
+        - [Raw 이미지 포맷](https://ko.wikipedia.org/wiki/Raw_이미지_포맷)
     1. 이미지 시퀀스(Image Sequence) & 비디오 파일(Video File)
         - 이미지 시퀀스
             - 낮장으로 이루어진 연속적인 이름을 가진 이미지 파일
