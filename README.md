@@ -82,7 +82,9 @@
             
     1. 초점(Focus, 포커스) & 피사계 심도(Depth of Field, 뎁스 오브 필드)
         - 초점이란? 선명한 상이 형성되는 지점.
-        - 사진 촬영을 할 때, 렌즈는 수많은 평면 중에서 한 번에 하나의 평면에만 초점을 맞출수 있는데, 이를 초점면(Plane of Focus)이라고 한다.
+        - 초점면(Plane of Focus)
+            > ![The-Secret-of-Macro-Photography-Plane-Of-Focus-16-726x565.jpg](imgs/The-Secret-of-Macro-Photography-Plane-Of-Focus-16-726x565.jpg)
+            > <br>[Two Loves Studio](https://twolovesstudio.com/blog/macro-food-photography-plane-of-focus/)
         - 포커스 디스턴스(Focus Distance)는 카메라부터 초점면까지의 거리.
             > ![1920px-FocusDemonstration-BambooRooftop_half.jpg](imgs/1920px-FocusDemonstration-BambooRooftop_half.jpg)
             > <br>[Focus (optics) - Wikipedia](https://en.wikipedia.org/wiki/Focus_(optics))
