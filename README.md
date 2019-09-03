@@ -79,6 +79,15 @@
                 > ![](https://support.d-imaging.sony.co.jp/support/ilc/learn/en/translation_img/learnmore/knowledge/03/knowledge3_2_1_modal.jpg?1567433886763)
                 > <br>[Sony Global - 디지털 이미징](https://support.d-imaging.sony.co.jp/support/ilc/learn/ko/knowledge/03.html)
             - 렌즈에서 제어
+            
+    1. 초점(Focus, 포커스) & 피사계 심도(Depth of Field, 뎁스 오브 필드)
+        - 포커스 링(Focus Ring)을 통해 초점을 조정.
+        - [포커스 이동(Rack Focus, 랙 포커스)](https://youtu.be/lqE_CG9lnBs)
+        - [아웃포커스(Defocus)](https://support.d-imaging.sony.co.jp/support/ilc/learn/ko/knowledge/03.html)            
+        - 딥 포커스(Deep Focus)
+            > ![deep_focus_1k.jpg](imgs/deep_focus_1k.jpg)
+            > <br>[Venus Optics Laowa](https://www.flickr.com/photos/137268551@N02/28005366633/in/album-72157669943654560/)
+            
     1. [초점거리(Focal Length, 포컬랭스)](https://support.d-imaging.sony.co.jp/support/ilc/learn/ko/knowledge/01.html)
         - [렌즈의 제2주점 부터 촬상면(센서 또는 필름) 까지의 거리.](https://guzene.tistory.com/147)
         - 단위: mm(밀리미터). ex) 8mm, 35mm, 100mm.
@@ -86,16 +95,14 @@
         - 초점거리가 짧다 = 배율이 낮다 = 화각이 넓다
         - [포컬랭스 시뮬레이션](https://imaging.nikon.com/lineup/lens/simulator/)
         - `포커스 디스턴스(Focus Distance)와 혼동하지 말 것. 카메라부터 피사체 까지의 거리.`
+        
     1. [줌(Zoom)](https://youtu.be/mRp13pRzzWQ)
         - 포컬랭스를 변화 시키는 것.
             - 줌 인(Zoom In) - 포컬랭스를 늘리는 것. ex) 24mm >> 75mm
             - 줌 아웃(Zoom Out) - 포컬랭스를 줄이는 것. ex) 74mm >> 24mm
         - 줌 렌즈에서만 가능. 단 렌즈는 줌 기능이 없다.
         - 줌 링(Zoom Ring)을 통해 조정
-    1. 초점(Focus, 포커스)
-        - 포커스 링(Focus Ring)을 통해 초점을 조정.
-        - [포커스 이동(Rack Focus, 랙 포커스)](https://youtu.be/lqE_CG9lnBs)
-        - [아웃포커스(Defocus)](https://support.d-imaging.sony.co.jp/support/ilc/learn/ko/knowledge/03.html)
+
 1. [영상 기초](https://youtu.be/ZKmNUP_5TFQ)
     - 영상: 이미지(Image). 정지 사진(Still Picture).
         > ![The_Horse_in_Motion_high_res_qtr.jpg](imgs/The_Horse_in_Motion_high_res_qtr.jpg)
