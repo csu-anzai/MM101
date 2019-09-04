@@ -125,6 +125,7 @@
         - 줌 링(Zoom Ring)을 통해 조정
         
     1. 원근감(Perspective)
+        - 초점 거리가 길 경우 전경 및 배경에 있는 피사체가 최종 이미지에서 서로 가까운 것처럼 표현되기도 합니다. 이러한 효과를 "망원 압축"이라고도 하며 실제로 렌즈 자체가 그 원인은 아닙니다. 망원 렌즈를 사용할 때에는 촬영자가 피사체로부터 더 멀리 떨어져야 합니다. 따라서 카메라로부터 전경 및 배경 피사체까지의 거리에 비해 전경과 배경의 피사체는 서로 가까이 있게 됩니다. 달리 설명하면, 전경 및 배경의 피사체가 모두 카메라로부터 상당히 떨어져 있기 때문에 최종 이미지에서 이러한 피사체의 상대적 크기가 실제 크기에 더 가깝게 표현되는 것입니다. 광각 렌즈로 촬영할 경우 일반적으로 전경 피사체에 가까이 접근해야만 피사체가 프레임에 충분한 크기로 표현되며, 이 때문에 멀리 떨어진 피사체가 상대적으로 작게 보이는 것입니다. 느껴지는 원근감의 차이는 사실 피사체와 촬영자 사이의 거리에 따라 달라집니다.[2]
         > [![](http://img.youtube.com/vi/TpOJ31RPwP8/0.jpg)](http://www.youtube.com/watch?v=TpOJ31RPwP8 "")
         > <br>[LENSES FOCAL LENGTHS. The visual - Andrey Lebrov](https://youtu.be/TpOJ31RPwP8)
 
@@ -378,3 +379,4 @@
 ### Reference
 
 - [[1] [네이버 지식백과] DOF [Depth of Field] - 피사계 심도(被寫界 深度) (지형 공간정보체계 용어사전, 2016. 1. 3., 이강원, 손호웅)](https://terms.naver.com/entry.nhn?docId=3475654&cid=58439&categoryId=58439)
+- [[2] 사진 촬영의 초점 거리, 화각 및 원근감 | Sony KR](https://www.sony.co.kr/electronics/focal-length-angle-of-view-perspective)
