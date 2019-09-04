@@ -85,13 +85,13 @@
         - 초점면(Plane of Focus)
             - 카메라 앞에 있는 가상의 평면. 카메라의 필름 또는 센서와 정확히 평행을 이룬다.
             - 초점면에 있는 피사체는 선명한 상이 형성된다.
+            - 포커스 디스턴스(Focus Distance)는 카메라부터 초점면까지의 거리.
+            - 렌즈에 있는 포커스 링(Focus Ring)을 통해 포커스 디스턴스(Focus Distance)를 조정 한다.
             > ![The-Secret-of-Macro-Photography-Plane-Of-Focus-16-726x565.jpg](imgs/The-Secret-of-Macro-Photography-Plane-Of-Focus-16-726x565.jpg)
             > <br>[Two Loves Studio](https://twolovesstudio.com/blog/macro-food-photography-plane-of-focus/)
-        - 포커스 디스턴스(Focus Distance)는 카메라부터 초점면까지의 거리.
-            > ![1920px-FocusDemonstration-BambooRooftop_half.jpg](imgs/1920px-FocusDemonstration-BambooRooftop_half.jpg)
+            > <br>![1920px-FocusDemonstration-BambooRooftop_half.jpg](imgs/1920px-FocusDemonstration-BambooRooftop_half.jpg)
             > <br>[Focus (optics) - Wikipedia](https://en.wikipedia.org/wiki/Focus_(optics))
             > <br>(좌)초점면이 앞쪽에 있는 모습. (우)초점면이 뒤쪽에 있는 모습.
-        - 렌즈에 있는 포커스 링(Focus Ring)을 통해 포커스 디스턴스(Focus Distance)를 조정 한다.
         - [포커스 이동(Rack Focus, 랙 포커스)](https://youtu.be/lqE_CG9lnBs)
         - 피사계 심도는 사진술에서 한 사진의 초점이 맞은 것으로 인식되는 범위이다. 렌즈의 초점은 단 하나의 면에 정해지게 되어 있으나 실제 사진에서는 초점면을 중심으로 서서히 흐려지는 현상이 나타나는데, 이때 충분히 초점이 맞은 것으로 인식되는 범위의 한계를 피사계 심도라 한다. 심도는 초점이 맞게 찍히는 가장 가까운 거리에서 가장 먼 거리 사이의 거리를 말한다. 이 초점이 맞게 찍힌 거리가 긴 것을 ‘심도가 깊다’고 하고, 초점이 맞는 거리가 짧은 것을 ‘심도가 얕다’고 한다.[1]
         - 편심 초점(Shallow Focus, 섈로 포커스)
