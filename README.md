@@ -123,6 +123,10 @@
             - 줌 아웃(Zoom Out) - 포컬랭스를 줄이는 것. ex) 74mm >> 24mm
         - 줌 렌즈에서만 가능. 단 렌즈는 줌 기능이 없다.
         - 줌 링(Zoom Ring)을 통해 조정
+        
+    1. 원근감(Perspective)
+        > [![](http://img.youtube.com/vi/TpOJ31RPwP8/0.jpg)](http://www.youtube.com/watch?v=TpOJ31RPwP8 "")
+        > <br>[LENSES FOCAL LENGTHS. The visual - Andrey Lebrov](https://youtu.be/TpOJ31RPwP8)
 
 1. 영상 기초
     - 영상: 이미지(Image). 정지 사진(Still Picture).
