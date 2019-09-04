@@ -30,6 +30,7 @@
     - [한 눈에 쏙, 렌즈 이야기 (카메라의 역사) - 빠르크의 3분 강좌](https://youtu.be/-Y4YZlEQafs)
     - [꾸러기 탐구생활-핀홀카메라(111회) 상](https://youtu.be/ZHAm0dMkoug) , [꾸러기 탐구생활-핀홀카메라(111회) 하](https://youtu.be/bUHdoCdTioI) - SBS Culture
     - [DSLR, 미러리스 카메라 조작. 이 영상 하나로 끝내버리기 - 비됴클래스](https://youtu.be/xgx8jMrGARg)
+    - [영상 제작 기초 강좌 - 최소한 이것만 알고 갑시다. -1- 해상도, 화면 비율, 프레임 #5](https://youtu.be/ZKmNUP_5TFQ)
 
 1. 카메라 기초
     1. 카메라 역사
@@ -123,7 +124,7 @@
         - 줌 렌즈에서만 가능. 단 렌즈는 줌 기능이 없다.
         - 줌 링(Zoom Ring)을 통해 조정
 
-1. [영상 기초](https://youtu.be/ZKmNUP_5TFQ)
+1. 영상 기초
     - 영상: 이미지(Image). 정지 사진(Still Picture).
         > ![The_Horse_in_Motion_high_res_qtr.jpg](imgs/The_Horse_in_Motion_high_res_qtr.jpg)
         > <br>[Eadweard Muybridge - Wikipedia](https://en.wikipedia.org/wiki/Eadweard_Muybridge)
